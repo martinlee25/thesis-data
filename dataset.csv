@@ -1,0 +1,1093 @@
+Data point #,Stanza.Line,Hangeul 1,IPA 1,Onset 1,Onset type 1,Pitch 1,Semitone value 1,Hangeul 2,IPA 2,Onset 2,Onset type 2,Pitch 2,Semitone value 2,Onset sequence,(Expected) tone sequence,Melodic sequence,Setting,Semitone difference
+1.001,3.8,다,tɑ,t,P,C#5,61,음,ɯm,∅,p,C#5,61,Pp,Level*,Level,Similar,0
+1.002,3.8,음,ɯm,∅,p,C#5,61,세 ,sɛ,s,p,C#5,61,pp,Level*,Level,Similar,0
+1.003,3.8,세,sɛ,s,p,C#5,61,곌,kjɛl,k,P,C#5,61,pP,Level*,Level,Similar,0
+1.004,3.8,곌,kjɛl,k,P,C#5,61,열,jʌl,∅,p,C#5,61,Pp,Level*,Level,Similar,0
+1.005,3.8,열,jʌl,∅,p,C#5,61,어,ʌ,∅,p,D5,62,pp,Level*,Up,Oblique (II),1
+1.006,3.8,어,ʌ,∅,p,D5,62,난,nɑn,n,p,C#5,61,pp,Level*,Down,Oblique (II),-1
+1.007,4.2,후,hu,h,p,E5,64,회,hwɛ,h,p,E5,64,pp,Level*,Level,Similar,0
+1.008,4.2,회,hwɛ,h,p,E5,64,없,ʌp,∅,p,G#5,68,pp,Level*,Up,Oblique (II),4
+1.009,4.2,없,ʌp,∅,p,G#5,68,어,ʌ,∅,p,E5,64,pp,Level*,Down,Oblique (II),-4
+1.010,4.2,어,ʌ,∅,p,E5,64,난,nɑn,n,p,F#5,66,pp,Level*,Up,Oblique (II),2
+1.011,4.2,난,nɑn,n,p,F#5,66,맞,mɑt,m,p,D5,62,pp,Level*,Down,Oblique (II),-4
+1.012,4.3,맞,mɑt,m,p,D5,62,서,sʌ,s,p,E5,64,pp,Level*,Up,Oblique (II),2
+1.013,4.3,서,sʌ,s,p,E5,64,난,nɑn,n,p,F#5,66,pp,Level*,Up,Oblique (II),2
+1.014,4.3,난,nɑn,n,p,F#5,66,깨,k*ɛ,k*,T,D5,62,pT,Up?,Down,Contrary,-4
+1.015,4.3,깨,k*ɛ,k*,T,D5,62,버,pʌ,p,P,E5,64,TP,Down?,Up,Contrary,2
+1.016,4.3,버,pʌ,p,P,E5,64,렸,ljʌt,l,p,A5,69,Pp,Level*,Up,Oblique (II),5
+1.017,4.3,렸,ljʌt,l,p,A5,69,지,tɕi,tɕ,p,A5,69,pp,Level*,Level,Similar,0
+1.018,4.3,지,tɕi,tɕ,p,A5,69,날,nɑl,n,p,A5,69,pp,Level*,Level,Similar,0
+1.019,4.4,날,nɑl,n,p,A5,69,따,t*ɑ,t*,T,A5,69,pT,Up?,Level,Oblique (I),0
+1.020,4.4,따,t*ɑ,t*,T,A5,69,라,lɑ,l,p,B5,71,Tp,Down?,Up,Contrary,2
+1.021,4.4,라,lɑ,l,p,B5,71,서,sʌ,s,p,B5,71,pp,Level*,Level,Similar,0
+1.022,4.4,서,sʌ,s,p,B5,71,움,um,∅,p,B5,71,pp,Level*,Level,Similar,0
+1.023,4.4,움,um,∅,p,B5,71,직,tɕik,tɕ,p,A5,69,pp,Level*,Down,Oblique (II),-2
+1.024,4.4,직,tɕik,tɕ,p,A5,69,일,il,∅,p,G#5,68,pp,Level*,Down,Oblique (II),-1
+1.025,4.4,일,il,∅,p,G#5,68,손,son,s,p,E5,64,pp,Level*,Down,Oblique (II),-4
+1.026,4.5,손,son,s,p,E5,64,끝,k*ɯt,k*,T,E5,64,pT,Up?,Level,Oblique (I),0
+1.027,4.5,끝,k*ɯt,k*,T,E5,64,으,ɯ,∅,p,A5,69,Tp,Down?,Up,Contrary,5
+1.028,4.5,으,ɯ,∅,p,A5,69,로,lo,l,p,G#5,68,pp,Level*,Down,Oblique (II),-1
+1.029,4.5,로,lo,l,p,G#5,68,세,sɛ,s,p,E5,64,pp,Level*,Down,Oblique (II),-4
+1.030,4.5,세,sɛ,s,p,E5,64,상,sɑŋ,s,p,E5,64,pp,Level*,Level,Similar,0
+1.031,4.5,상,sɑŋ,s,p,E5,64,을,ɯl,∅,p,E5,64,pp,Level*,Level,Similar,0
+1.032,4.5,을,ɯl,∅,p,E5,64,두,tu,t,P,G#5,68,pP,Level*,Up,Oblique (II),4
+1.033,4.5,두,tu,t,P,G#5,68,드,tɯ,t,P,E5,64,PP,Level,Down,Oblique (II),-4
+1.034,4.5,드,tɯ,t,P,E5,64,려,ljʌ,l,p,F#5,66,Pp,Level*,Up,Oblique (II),2
+1.035,4.5,려,ljʌ,l,p,F#5,66,움,um,∅,p,D5,62,pp,Level*,Down,Oblique (II),-4
+1.036,4.5,움,um,∅,p,D5,62,직,tɕik,tɕ,p,E5,64,pp,Level*,Up,Oblique (II),2
+1.037,4.5,직,tɕik,tɕ,p,E5,64,여,jʌ,∅,p,F#5,66,pp,Level*,Up,Oblique (II),2
+1.038,8.1,깜,k*ɑm,k*,T,C#5,61,짝,tɕ*ɑk,tɕ*,p,C#5,61,Tp,Down?,Level,Oblique (I),0
+1.039,8.1,짝,tɕ*ɑk,tɕ*,p,C#5,61,놀,nol,n,p,C#5,61,pp,Level*,Level,Similar,0
+1.040,8.1,놀,nol,n,p,C#5,61,랄,lɑl,l,p,C#5,61,pp,Level*,Level,Similar,0
+1.041,8.1,랄,lɑl,l,p,C#5,61,다,tɑ,t,P,F5,65,pP,Level*,Up,Oblique (II),4
+1.042,8.1,다,tɑ,t,P,F5,65,음,ɯm,∅,p,F5,65,Pp,Level*,Level,Similar,0
+1.043,8.2,키,kʰi,kʰ,A,A5,69,를,lɯl,l,p,G#5,68,Ap,Down*,Down,Similar,-1
+1.044,8.2,를,lɯl,l,p,G#5,68,거,kʌ,k,P,F#5,66,pP,Level*,Down,Oblique (II),-2
+1.045,8.2,거,kʌ,k,P,F#5,66,머,mʌ,m,p,G#5,68,Pp,Level*,Up,Oblique (II),2
+1.046,8.2,머,mʌ,m,p,G#5,68,쥔,tɕwin,tɕ,p,A5,69,pp,Level*,Up,Oblique (II),1
+1.047,8.2,쥔,tɕwin,tɕ,p,A5,69,주,tɕu,tɕ,p,B5,71,pp,Level*,Up,Oblique (II),2
+1.048,8.2,주,tɕu,tɕ,p,B5,71,인,in,∅,p,A5,69,pp,Level*,Down,Oblique (II),-2
+1.049,8.2,인,in,∅,p,A5,69,공,koŋ,k,P,G#5,68,pP,Level*,Down,Oblique (II),-1
+1.050,8.2,공,koŋ,k,P,G#5,68,은,ɯn,∅,p,F#5,66,Pp,Level*,Down,Oblique (II),-2
+1.051,8.2,은,ɯn,∅,p,F#5,66,나,nɑ,n,p,G#5,68,pp,Level*,Up,Oblique (II),2
+1.052,8.3,쉽,swip,s,p,F5,65,게,kɛ,k,P,F5,65,pP,Level*,Level,Similar,0
+1.053,8.4,같,kɑt,k,P,G#5,68,이,i,∅,p,A5,69,Pp,Level*,Up,Oblique (II),1
+1.054,8.4,이,i,∅,p,A5,69,그,kɯ,k,P,B5,71,pP,Level*,Up,Oblique (II),2
+1.055,8.4,그,kɯ,k,P,B5,71,려,ljʌ,l,p,A5,69,Pp,Level*,Down,Oblique (II),-2
+1.056,8.4,려,ljʌ,l,p,A5,69,지,tɕi,tɕ,p,G#5,68,pp,Level*,Down,Oblique (II),-1
+1.057,8.4,지,tɕi,tɕ,p,G#5,68,는,nɯn,n,p,F#5,66,pp,Level*,Down,Oblique (II),-2
+1.058,8.4,는,nɯn,n,p,F#5,66,이,i,∅,p,G#5,68,pp,Level*,Up,Oblique (II),2
+1.059,8.4,이,i,∅,p,G#5,68,미,mi,m,p,F#5,66,pp,Level*,Down,Oblique (II),-2
+1.060,8.4,미,mi,m,p,F#5,66,지,tɕi,tɕ,p,F5,65,pp,Level*,Down,Oblique (II),-1
+1.061,10.2,타,tʰɑ,tʰ,A,B5,71,오,o,∅,p,A5,69,Ap,Down*,Down,Similar,-2
+1.062,10.2,오,o,∅,p,A5,69,르,lɯ,l,p,G#5,68,pp,Level*,Down,Oblique (II),-1
+1.063,10.2,르,lɯ,l,p,G#5,68,는,nɯn,n,p,F#5,66,pp,Level*,Down,Oblique (II),-2
+1.064,10.2,는,nɯn,n,p,F#5,66,날,nɑl,n,p,F#5,66,pp,Level*,Level,Similar,0
+1.065,10.2,날,nɑl,n,p,F#5,66,느,nɯ,n,p,D5,62,pp,Level*,Down,Oblique (II),-4
+1.066,10.3,느,nɯ,n,p,D5,62,껴,k*jʌ,k*,T,E5,64,pT,Up?,Up,Similar,2
+1.067,10.3,껴,k*jʌ,k*,T,E5,64,난,nɑn,n,p,F#5,66,Tp,Down?,Up,Contrary,2
+1.068,10.4,새,sɛ,s,p,A5,69,로,lo,l,p,B5,71,pp,Level*,Up,Oblique (II),2
+1.069,10.4,로,lo,l,p,B5,71,워,wʌ,∅,p,B5,71,pp,Level*,Level,Similar,0
+1.070,10.4,워,wʌ,∅,p,B5,71,지,tɕi,tɕ,p,A5,69,pp,Level*,Down,Oblique (II),-2
+1.071,10.4,지,tɕi,tɕ,p,A5,69,는,nɯn,n,p,A5,69,pp,Level*,Level,Similar,0
+1.072,10.5,난,nɑn,n,p,E6,76,눈,nun,n,p,D#6,75,pp,Level*,Down,Oblique (II),-1
+1.073,10.5,눈,nun,n,p,D#6,75,을,ɯl,∅,p,C#6,73,pp,Level*,Down,Oblique (II),-2
+1.074,10.5,을,ɯl,∅,p,C#6,73,떠,t*ʌ,t*,T,D#6,75,pT,Up?,Up,Similar,2
+1.075,10.5,떠,t*ʌ,t*,T,D#6,75,시,si,s,p,C#6,73,Tp,Down?,Down,Similar,-2
+1.076,10.6,시,si,s,p,C#6,73,작,tɕɑk,tɕ,p,C#6,73,pp,Level*,Level,Similar,0
+1.077,10.6,작,tɕɑk,tɕ,p,C#6,73,된,twɛn,t,P,G#5,68,pP,Level*,Down,Oblique (II),-5
+1.078,10.6,된,twɛn,t,P,G#5,68,걸,kʌl,k,P,A5,69,PP,Level,Up,Oblique (II),1
+1.079,10.6,걸,kʌl,k,P,A5,69,알,ɑl,∅,p,A5,69,Pp,Level*,Level,Similar,0
+1.080,10.6,알,ɑl,∅,p,A5,69,아,ɑ,∅,p,A5,69,pp,Level*,Level,Similar,0
+1.081,14.2,거,kʌ,k,P,G#5,68,침,tɕʰim,tɕʰ,A,F#5,66,PA,Up,Down,Contrary,-2
+1.082,14.2,침,tɕʰim,tɕʰ,A,F#5,66,없,ʌp,∅,p,F5,65,Ap,Down*,Down,Similar,-1
+1.083,14.2,없,ʌp,∅,p,F5,65,는,nɯn,n,p,F#5,66,pp,Level*,Up,Oblique (II),1
+1.084,14.3,나,nɑ,n,p,A5,69,를,lɯl,l,p,G#5,68,pp,Level*,Down,Oblique (II),-1
+1.085,14.3,를,lɯl,l,p,G#5,68,둘,tul,t,P,F#5,66,pP,Level*,Down,Oblique (II),-2
+1.086,14.3,둘,tul,t,P,F#5,66,러,lʌ,l,p,G#5,68,Pp,Level*,Up,Oblique (II),2
+1.087,14.3,러,lʌ,l,p,G#5,68,싼,s*ɑn,s*,t,A5,69,pt,Up?,Up,Similar,1
+1.088,14.4,거,kʌ,k,P,F#5,66,친,tɕʰin,tɕʰ,A,F#5,66,PA,Up,Level,Oblique (I),0
+1.089,14.4,친,tɕʰin,tɕʰ,A,F#5,66,여,jʌ,∅,p,C#6,73,Ap,Down*,Up,Contrary,7
+1.090,14.4,여,jʌ,∅,p,C#6,73,정,tɕʌŋ,tɕ,p,C#6,73,pp,Level*,Level,Similar,0
+1.091,14.4,정,tɕʌŋ,tɕ,p,C#6,73,속,sok,s,p,C#6,73,pp,Level*,Level,Similar,0
+1.092,14.4,속,sok,s,p,C#6,73,의,ɰi,∅,p,C#6,73,pp,Level*,Level,Similar,0
+1.093,15.2,내,nɛ,n,p,G#5,68,가,kɑ,k,P,G#5,68,pP,Level*,Level,Similar,0
+1.094,15.2,가,kɑ,k,P,G#5,68,깨,k*ɛ,k*,T,G#5,68,PT,Up?,Level,Oblique (I),0
+1.095,15.2,깨,k*ɛ,k*,T,G#5,68,트,tʰɯ,tʰ,A,G#5,68,TA,Up???,Level,Oblique (I),0
+1.096,15.2,트,tʰɯ,tʰ,A,G#5,68,릴,lil,l,p,G#5 -> F#5,68,Ap,Down*,Level,Oblique (I),0
+1.097,15.2,릴,lil,l,p,G#5 -> F#5,68,모,mo,m,p,F#5,66,pp,Level*,Down,Oblique (II),-2
+1.098,15.2,모,mo,m,p,F#5,66,든,tɯn,t,P,G#5,68,pP,Level*,Up,Oblique (II),2
+2.001,2.2,새,sɛ,s,p,G4,55,롭,lop,l,p,G4,55,pp,Level*,Level,Similar,0
+2.002,2.2,롭,lop,l,p,G4,55,게,kɛ,k,P,G4,55,pP,Level*,Level,Similar,0
+2.003,2.2,게,kɛ,k,P,G4,55,펼,pʰjʌl,pʰ,A,G4,55,PA,Up,Level,Oblique (I),0
+2.004,2.2,펼,pʰjʌl,pʰ,A,G4,55,쳐,tɕʰjʌ,tɕʰ,A,F4,53,AA,Level,Down,Oblique (II),-2
+2.005,2.2,쳐,tɕʰjʌ,tɕʰ,A,F4,53,질,tɕil,tɕ,p,E4,52,Ap,Down*,Down,Similar,-1
+2.006,2.2,질,tɕil,tɕ,p,E4,52,내,nɛ,n,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.007,2.3,고,ko,k,P,G4,55,민,min,m,p,G4,55,Pp,Level*,Level,Similar,0
+2.008,2.3,민,min,m,p,G4,55,도,to,t,P,G4,55,pP,Level*,Level,Similar,0
+2.009,2.3,도,to,t,P,G4,55,불,pul,p,P,G4,55,PP,Level,Level,Similar,0
+2.010,2.3,불,pul,p,P,G4,55,안,ɑn,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+2.011,2.3,안,ɑn,∅,p,F4,53,도,to,t,P,E4,52,pP,Level*,Down,Oblique (II),-1
+2.012,2.3,도,to,t,P,E4,52,다,tɑ,t,P,D4,50,PP,Level,Down,Oblique (II),-2
+2.013,2.3,다,tɑ,t,P,D4,50,그,kɯ,k,P,D4,50,PP,Level,Level,Similar,0
+2.014,2.3,그,kɯ,k,P,D4,50,만,mɑn,m,p,A3,45,Pp,Level*,Down,Oblique (II),-5
+2.015,3.3,수,su,s,p,E4,52,없,ʌp,∅,p,C5,60,pp,Level*,Up,Oblique (II),8
+2.016,3.3,없,ʌp,∅,p,C5,60,이,i,∅,p,B4,59,pp,Level*,Down,Oblique (II),-1
+2.017,3.3,이,i,∅,p,B4,59,부,pu,p,P,B4,59,pP,Level*,Level,Similar,0
+2.018,3.3,부,pu,p,P,B4,59,서,sʌ,s,p,A4,57,Pp,Level*,Down,Oblique (II),-2
+2.019,3.3,서,sʌ,s,p,A4,57,지,tɕi,tɕ,p,C5,60,pp,Level*,Up,Oblique (II),3
+2.020,3.3,지,tɕi,tɕ,p,C5,60,고,ko,k,P,C5,60,pP,Level*,Level,Similar,0
+2.021,3.3,고,ko,k,P,C5,60,부,pu,p,P,C5,60,PP,Level,Level,Similar,0
+2.022,3.3,부,pu,p,P,C5,60,딪,tit,t,P,D5,62,PP,Level,Up,Oblique (II),2
+2.023,3.3,딪,tit,t,P,D5,62,쳐,tɕʰjʌ,tɕʰ,A,B4,59,PA,Up,Down,Contrary,-3
+2.024,3.3,쳐,tɕʰjʌ,tɕʰ,A,B4,59,거,kʌ,k,P,E4,52,AP,Down,Down,Similar,-7
+2.025,3.4,거,kʌ,k,P,E4,52,친,tɕʰin,tɕʰ,A,C5,60,PA,Up,Up,Similar,8
+2.026,3.4,친,tɕʰin,tɕʰ,A,C5,60,돌,tol,t,P,A4,57,AP,Down,Down,Similar,-3
+2.027,3.4,돌,tol,t,P,A4,57,은,ɯn,∅,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+2.028,3.4,은,ɯn,∅,p,G4,55,보,po,p,P,E4,52,pP,Level*,Down,Oblique (II),-3
+2.029,3.4,보,po,p,P,E4,52,석,sʌk,s,p,D4,50,Pp,Level*,Down,Oblique (II),-2
+2.030,3.4,석,sʌk,s,p,D4,50,이,i,∅,p,E4,52,pp,Level*,Up,Oblique (II),2
+2.031,3.4,이,i,∅,p,E4,52,됐,twɛt,t,P,G4,55,pP,Level*,Up,Oblique (II),3
+2.032,3.4,됐,twɛt,t,P,G4,55,어,ʌ,∅,p,E4,52,Pp,Level*,Down,Oblique (II),-3
+2.033,4.1,외,wɛ,∅,p,E4,52,쳐,tɕʰjʌ,tɕʰ,A,D4,50,pA,Up*,Down,Contrary,-2
+2.034,4.1,쳐,tɕʰjʌ,tɕʰ,A,D4,50,상,sɑŋ,s,p,D4,50,Ap,Down*,Level,Oblique (I),0
+2.035,4.1,상,sɑŋ,s,p,D4,50,상,sɑŋ,s,p,D4,50,pp,Level*,Level,Similar,0
+2.036,4.1,상,sɑŋ,s,p,D4,50,은,ɯn,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.037,4.1,은,ɯn,∅,p,C4,48,현,hjʌn,h,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.038,4.1,현,hjʌn,h,p,D4,50,실,sil,s,p,D4,50,pp,Level*,Level,Similar,0
+2.039,4.1,실,sil,s,p,D4,50,이,i,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.040,4.1,이,i,∅,p,C4,48,돼,twɛ,t,P,A3,45,pP,Level*,Down,Oblique (II),-3
+2.041,4.1,돼,twɛ,t,P,A3,45,저,tɕʌ,tɕ,p,E4,52,Pp,Level*,Up,Oblique (II),7
+2.042,4.2,저,tɕʌ,tɕ,p,E4,52,위,wi,∅,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.043,4.2,위,wi,∅,p,D4,50,에,ɛ,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.044,4.2,에,ɛ,∅,p,C4,48,승,sɯŋ,s,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.045,4.2,승,sɯŋ,s,p,D4,50,리,li,l,p,D4,50,pp,Level*,Level,Similar,0
+2.046,4.2,리,li,l,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.047,4.2,의,ɰi,∅,p,C4,48,깃,kit,k,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.048,4.2,깃,kit,k,P,D4,50,발,pɑl,p,P,D4,50,PP,Level,Level,Similar,0
+2.049,4.2,발,pɑl,p,P,D4,50,을,ɯl,∅,p,C4,48,Pp,Level*,Down,Oblique (II),-2
+2.050,4.2,을,ɯl,∅,p,C4,48,꽂,k*ot,k*,T,D4,50,pT,Up?,Up,Similar,2
+2.051,4.2,꽂,k*ot,k*,T,D4,50,아,ɑ,∅,p,E4,52,Tp,Down?,Up,Contrary,2
+2.052,5.1,던,tʌn,t,P,E4,52,져,tɕjʌ,tɕ,p,D4,50,Pp,Level*,Down,Oblique (II),-2
+2.053,5.1,져,tɕjʌ,tɕ,p,D4,50,열,jʌl,∅,p,D4,50,pp,Level*,Level,Similar,0
+2.054,5.1,열,jʌl,∅,p,D4,50,정,tɕʌŋ,tɕ,p,D4,50,pp,Level*,Level,Similar,0
+2.055,5.1,정,tɕʌŋ,tɕ,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.056,5.1,의,ɰi,∅,p,C4,48,불,pul,p,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.057,5.1,불,pul,p,P,D4,50,꽃,k*ot,k*,T,D4,50,PT,Up?,Level,Oblique (I),0
+2.058,5.1,꽃,k*ot,k*,T,D4,50,을,ɯl,∅,p,C4,48,Tp,Down?,Down,Similar,-2
+2.059,5.1,을,ɯl,∅,p,C4,48,다,tɑ,t,P,A3,45,pP,Level*,Down,Oblique (II),-3
+2.060,5.1,다,tɑ,t,P,A3,45,내,nɛ,n,p,E4,52,Pp,Level*,Up,Oblique (II),7
+2.061,5.2,내,nɛ,n,p,E4,52,안,ɑn,∅,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.062,5.2,안,ɑn,∅,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.063,5.2,의,ɰi,∅,p,C4,48,강,kɑŋ,k,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.064,5.2,강,kɑŋ,k,P,D4,50,렬,ljʌl,l,p,D4,50,Pp,Level*,Level,Similar,0
+2.065,5.2,렬,ljʌl,l,p,D4,50,한,hɑn,h,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.066,5.2,한,hɑn,h,p,C4,48,확,hwak,h,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.067,5.2,확,hwak,h,p,D4,50,신,sin,s,p,D4,50,pp,Level*,Level,Similar,0
+2.068,5.2,신,sin,s,p,D4,50,을,ɯl,∅,p,G4,55,pp,Level*,Up,Oblique (II),5
+2.069,5.2,을,ɯl,∅,p,G4,55,다,tɑ,t,P,E4,52,pP,Level*,Down,Oblique (II),-3
+2.070,10.3,수,su,s,p,E4,52,없,ʌp,∅,p,C5,60,pp,Level*,Up,Oblique (II),8
+2.071,10.3,없,ʌp,∅,p,C5,60,이,i,∅,p,B4,59,pp,Level*,Down,Oblique (II),-1
+2.072,10.3,이,i,∅,p,B4,59,부,pu,p,P,B4,59,pP,Level*,Level,Similar,0
+2.073,10.3,부,pu,p,P,B4,59,서,sʌ,s,p,A4,57,Pp,Level*,Down,Oblique (II),-2
+2.074,10.3,서,sʌ,s,p,A4,57,지,tɕi,tɕ,p,C5,60,pp,Level*,Up,Oblique (II),3
+2.075,10.3,지,tɕi,tɕ,p,C5,60,고,ko,k,P,C5,60,pP,Level*,Level,Similar,0
+2.076,10.3,고,ko,k,P,C5,60,부,pu,p,P,C5,60,PP,Level,Level,Similar,0
+2.077,10.3,부,pu,p,P,C5,60,딪,tit,t,P,D5,62,PP,Level,Up,Oblique (II),2
+2.078,10.3,딪,tit,t,P,D5,62,쳐,tɕʰjʌ,tɕʰ,A,B4,59,PA,Up,Down,Contrary,-3
+2.079,10.3,쳐,tɕʰjʌ,tɕʰ,A,B4,59,거,kʌ,k,P,E4,52,AP,Down,Down,Similar,-7
+2.080,10.4,거,kʌ,k,P,E4,52,친,tɕʰin,tɕʰ,A,C5,60,PA,Up,Up,Similar,8
+2.081,10.4,친,tɕʰin,tɕʰ,A,C5,60,돌,tol,t,P,A4,57,AP,Down,Down,Similar,-3
+2.082,10.4,돌,tol,t,P,A4,57,은,ɯn,∅,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+2.083,10.4,은,ɯn,∅,p,G4,55,보,po,p,P,E4,52,pP,Level*,Down,Oblique (II),-3
+2.084,10.4,보,po,p,P,E4,52,석,sʌk,s,p,D4,50,Pp,Level*,Down,Oblique (II),-2
+2.085,10.4,석,sʌk,s,p,D4,50,이,i,∅,p,E4,52,pp,Level*,Up,Oblique (II),2
+2.086,10.4,이,i,∅,p,E4,52,됐,twɛt,t,P,G4,55,pP,Level*,Up,Oblique (II),3
+2.087,10.4,됐,twɛt,t,P,G4,55,어,ʌ,∅,p,E4,52,Pp,Level*,Down,Oblique (II),-3
+2.088,11.1,외,wɛ,∅,p,E4,52,쳐,tɕʰjʌ,tɕʰ,A,D4,50,pA,Up*,Down,Contrary,-2
+2.089,11.1,쳐,tɕʰjʌ,tɕʰ,A,D4,50,상,sɑŋ,s,p,D4,50,Ap,Down*,Level,Oblique (I),0
+2.090,11.1,상,sɑŋ,s,p,D4,50,상,sɑŋ,s,p,D4,50,pp,Level*,Level,Similar,0
+2.091,11.1,상,sɑŋ,s,p,D4,50,은,ɯn,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.092,11.1,은,ɯn,∅,p,C4,48,현,hjʌn,h,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.093,11.1,현,hjʌn,h,p,D4,50,실,sil,s,p,D4,50,pp,Level*,Level,Similar,0
+2.094,11.1,실,sil,s,p,D4,50,이,i,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.095,11.1,이,i,∅,p,C4,48,돼,twɛ,t,P,A3,45,pP,Level*,Down,Oblique (II),-3
+2.096,11.1,돼,twɛ,t,P,A3,45,저,tɕʌ,tɕ,p,E4,52,Pp,Level*,Up,Oblique (II),7
+2.097,11.2,저,tɕʌ,tɕ,p,E4,52,위,wi,∅,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.098,11.2,위,wi,∅,p,D4,50,에,ɛ,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.099,11.2,에,ɛ,∅,p,C4,48,승,sɯŋ,s,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.100,11.2,승,sɯŋ,s,p,D4,50,리,li,l,p,D4,50,pp,Level*,Level,Similar,0
+2.101,11.2,리,li,l,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.102,11.2,의,ɰi,∅,p,C4,48,깃,kit,k,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.103,11.2,깃,kit,k,P,D4,50,발,pɑl,p,P,D4,50,PP,Level,Level,Similar,0
+2.104,11.2,발,pɑl,p,P,D4,50,을,ɯl,∅,p,C4,48,Pp,Level*,Down,Oblique (II),-2
+2.105,11.2,을,ɯl,∅,p,C4,48,꽂,k*ot,k*,T,D4,50,pT,Up?,Up,Similar,2
+2.106,11.2,꽂,k*ot,k*,T,D4,50,아,ɑ,∅,p,E4,52,Tp,Down?,Up,Contrary,2
+2.107,12.1,던,tʌn,t,P,E4,52,져,tɕjʌ,tɕ,p,D4,50,Pp,Level*,Down,Oblique (II),-2
+2.108,12.1,져,tɕjʌ,tɕ,p,D4,50,열,jʌl,∅,p,D4,50,pp,Level*,Level,Similar,0
+2.109,12.1,열,jʌl,∅,p,D4,50,정,tɕʌŋ,tɕ,p,D4,50,pp,Level*,Level,Similar,0
+2.110,12.1,정,tɕʌŋ,tɕ,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.111,12.1,의,ɰi,∅,p,C4,48,불,pul,p,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.112,12.1,불,pul,p,P,D4,50,꽃,k*ot,k*,T,D4,50,PT,Up?,Level,Oblique (I),0
+2.113,12.1,꽃,k*ot,k*,T,D4,50,을,ɯl,∅,p,C4,48,Tp,Down?,Down,Similar,-2
+2.114,12.1,을,ɯl,∅,p,C4,48,다,tɑ,t,P,A3,45,pP,Level*,Down,Oblique (II),-3
+2.115,12.1,다,tɑ,t,P,A3,45,내,nɛ,n,p,E4,52,Pp,Level*,Up,Oblique (II),7
+2.116,12.2,내,nɛ,n,p,E4,52,안,ɑn,∅,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.117,12.2,안,ɑn,∅,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.118,12.2,의,ɰi,∅,p,C4,48,강,kɑŋ,k,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.119,12.2,강,kɑŋ,k,P,D4,50,렬,ljʌl,l,p,D4,50,Pp,Level*,Level,Similar,0
+2.120,12.2,렬,ljʌl,l,p,D4,50,한,hɑn,h,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.121,12.2,한,hɑn,h,p,C4,48,확,hwak,h,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.122,12.2,확,hwak,h,p,D4,50,신,sin,s,p,D4,50,pp,Level*,Level,Similar,0
+2.123,12.2,신,sin,s,p,D4,50,을,ɯl,∅,p,G4,55,pp,Level*,Up,Oblique (II),5
+2.124,12.2,을,ɯl,∅,p,G4,55,다,tɑ,t,P,E4,52,pP,Level*,Down,Oblique (II),-3
+2.125,14.1,외,wɛ,∅,p,E4,52,쳐,tɕʰjʌ,tɕʰ,A,D4,50,pA,Up*,Down,Contrary,-2
+2.126,14.1,쳐,tɕʰjʌ,tɕʰ,A,D4,50,상,sɑŋ,s,p,D4,50,Ap,Down*,Level,Oblique (I),0
+2.127,14.1,상,sɑŋ,s,p,D4,50,상,sɑŋ,s,p,D4,50,pp,Level*,Level,Similar,0
+2.128,14.1,상,sɑŋ,s,p,D4,50,은,ɯn,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.129,14.1,은,ɯn,∅,p,C4,48,현,hjʌn,h,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.130,14.1,현,hjʌn,h,p,D4,50,실,sil,s,p,D4,50,pp,Level*,Level,Similar,0
+2.131,14.1,실,sil,s,p,D4,50,이,i,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.132,14.1,이,i,∅,p,C4,48,돼,twɛ,t,P,A3,45,pP,Level*,Down,Oblique (II),-3
+2.133,14.1,돼,twɛ,t,P,A3,45,저,tɕʌ,tɕ,p,E4,52,Pp,Level*,Up,Oblique (II),7
+2.134,14.2,저,tɕʌ,tɕ,p,E4,52,위,wi,∅,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.135,14.2,위,wi,∅,p,D4,50,에,ɛ,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.136,14.2,에,ɛ,∅,p,C4,48,승,sɯŋ,s,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.137,14.2,승,sɯŋ,s,p,D4,50,리,li,l,p,D4,50,pp,Level*,Level,Similar,0
+2.138,14.2,리,li,l,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.139,14.2,의,ɰi,∅,p,C4,48,깃,kit,k,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.140,14.2,깃,kit,k,P,D4,50,발,pɑl,p,P,D4,50,PP,Level,Level,Similar,0
+2.141,14.2,발,pɑl,p,P,D4,50,을,ɯl,∅,p,C4,48,Pp,Level*,Down,Oblique (II),-2
+2.142,14.2,을,ɯl,∅,p,C4,48,꽂,k*ot,k*,T,D4,50,pT,Up?,Up,Similar,2
+2.143,14.2,꽂,k*ot,k*,T,D4,50,아,ɑ,∅,p,E4,52,Tp,Down?,Up,Contrary,2
+2.144,15.1,던,tʌn,t,P,E4,52,져,tɕjʌ,tɕ,p,D4,50,Pp,Level*,Down,Oblique (II),-2
+2.145,15.1,져,tɕjʌ,tɕ,p,D4,50,열,jʌl,∅,p,D4,50,pp,Level*,Level,Similar,0
+2.146,15.1,열,jʌl,∅,p,D4,50,정,tɕʌŋ,tɕ,p,D4,50,pp,Level*,Level,Similar,0
+2.147,15.1,정,tɕʌŋ,tɕ,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.148,15.1,의,ɰi,∅,p,C4,48,불,pul,p,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.149,15.1,불,pul,p,P,D4,50,꽃,k*ot,k*,T,D4,50,PT,Up?,Level,Oblique (I),0
+2.150,15.1,꽃,k*ot,k*,T,D4,50,을,ɯl,∅,p,C4,48,Tp,Down?,Down,Similar,-2
+2.151,15.1,을,ɯl,∅,p,C4,48,다,tɑ,t,P,A3,45,pP,Level*,Down,Oblique (II),-3
+2.152,15.1,다,tɑ,t,P,A3,45,내,nɛ,n,p,E4,52,Pp,Level*,Up,Oblique (II),7
+2.153,15.2,내,nɛ,n,p,E4,52,안,ɑn,∅,p,D4,50,pp,Level*,Down,Oblique (II),-2
+2.154,15.2,안,ɑn,∅,p,D4,50,의,ɰi,∅,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.155,15.2,의,ɰi,∅,p,C4,48,강,kɑŋ,k,P,D4,50,pP,Level*,Up,Oblique (II),2
+2.156,15.2,강,kɑŋ,k,P,D4,50,렬,ljʌl,l,p,D4,50,Pp,Level*,Level,Similar,0
+2.157,15.2,렬,ljʌl,l,p,D4,50,한,hɑn,h,p,C4,48,pp,Level*,Down,Oblique (II),-2
+2.158,15.2,한,hɑn,h,p,C4,48,확,hwak,h,p,D4,50,pp,Level*,Up,Oblique (II),2
+2.159,15.2,확,hwak,h,p,D4,50,신,sin,s,p,D4,50,pp,Level*,Level,Similar,0
+2.160,15.2,신,sin,s,p,D4,50,을,ɯl,∅,p,G4,55,pp,Level*,Up,Oblique (II),5
+2.161,15.2,을,ɯl,∅,p,G4,55,다,tɑ,t,P,E4,52,pP,Level*,Down,Oblique (II),-3
+3.001,4.1,몸,mom,m,p,D#4,51,속,sok,s,p,D#4,51,pp,Level*,Level,Similar,0
+3.002,4.1,속,sok,s,p,D#4,51,에,ɛ,∅,p,D#4,51,pp,Level*,Level,Similar,0
+3.003,4.1,에,ɛ,∅,p,D#4,51,무,mu,m,p,D#4,51,pp,Level*,Level,Similar,0
+3.004,4.1,무,mu,m,p,D#4,51,언,ʌn,∅,p,D#4,51,pp,Level*,Level,Similar,0
+3.005,4.1,언,ʌn,∅,p,D#4,51,가,kɑ,k,P,F4,53,pP,Level*,Up,Oblique (II),2
+3.006,4.1,가,kɑ,k,P,F4,53,꿈,k*um,k*,T,D#4,51,PT,Up?,Down,Contrary,-2
+3.007,4.2,꿈,k*um,k*,T,D#4,51,틀,tʰɯl,tʰ,A,D#4,51,TA,Up???,Level,Oblique (I),0
+3.008,4.2,틀,tʰɯl,tʰ,A,D#4,51,거,kʌ,k,P,D#4,51,AP,Down,Level,Oblique (I),0
+3.009,4.2,거,kʌ,k,P,D#4,51,려,ljʌ,l,p,D#4,51,Pp,Level*,Level,Similar,0
+3.010,4.2,려,ljʌ,l,p,D#4,51,도,to,t,P,D#4,51,pP,Level*,Level,Similar,0
+3.011,4.2,도,to,t,P,D#4,51,난,nɑn,n,p,F4,53,Pp,Level*,Up,Oblique (II),2
+3.012,4.2,난,nɑn,n,p,F4,53,어,ʌ,∅,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+3.013,4.3,어,ʌ,∅,p,D#4,51,른,lɯn,l,p,D#4,51,pp,Level*,Level,Similar,0
+3.014,4.3,른,lɯn,l,p,D#4,51,스,sɯ,s,p,D#4,51,pp,Level*,Level,Similar,0
+3.015,4.3,스,sɯ,s,p,D#4,51,럽,lʌp,l,p,D#4,51,pp,Level*,Level,Similar,0
+3.016,4.3,럽,lʌp,l,p,D#4,51,게,kɛ,k,P,D#4,51,pP,Level*,Level,Similar,0
+3.017,4.3,게,kɛ,k,P,D#4,51,한,hɑn,h,p,D#4,51,Pp,Level*,Level,Similar,0
+3.018,4.3,한,hɑn,h,p,D#4,51,번,pʌn,p,P,F4,53,pP,Level*,Up,Oblique (II),2
+3.019,4.3,번,pʌn,p,P,F4,53,참,tɕʰɑm,tɕʰ,A,G4,55,PA,Up,Up,Similar,2
+3.020,4.3,참,tɕʰɑm,tɕʰ,A,G4,55,아,ɑ,∅,p,D#4,51,Ap,Down*,Down,Similar,-4
+3.021,4.3,아,ɑ,∅,p,D#4,51,참,tɕʰɑm,tɕʰ,A,B4,59,pA,Up*,Up,Similar,8
+3.022,4.4,참,tɕʰɑm,tɕʰ,A,B4,59,아,ɑ,∅,p,A#4,58,Ap,Down*,Down,Similar,-1
+3.023,5.1,엄,ʌm,∅,p,D#4,51,마,mɑ,m,p,D#4,51,pp,Level*,Level,Similar,0
+3.024,5.1,마,mɑ,m,p,D#4,51,아,ɑ,∅,p,D#4,51,pp,Level*,Level,Similar,0
+3.025,5.1,아,ɑ,∅,p,D#4,51,빠,p*ɑ,p*,T,D#4,51,pT,Up?,Level,Oblique (I),0
+3.026,5.1,빠,p*ɑ,p*,T,D#4,51,는,nɯn,n,p,D#4,51,Tp,Down?,Level,Oblique (I),0
+3.027,5.1,는,nɯn,n,p,D#4,51,왜,wɛ,∅,p,F4,53,pp,Level*,Up,Oblique (II),2
+3.028,5.1,왜,wɛ,∅,p,F4,53,얌,jam,∅,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+3.029,5.3,얌,jam,∅,p,D#4,51,전,tɕʌn,tɕ,p,D#4,51,pp,Level*,Level,Similar,0
+3.030,5.3,전,tɕʌn,tɕ,p,D#4,51,히,hi,h,p,D#4,51,pp,Level*,Level,Similar,0
+3.031,5.3,히,hi,h,p,D#4,51,있,it,∅,p,D#4,51,pp,Level*,Level,Similar,0
+3.032,5.3,있,it,∅,p,D#4,51,으,ɯ,∅,p,D#4,51,pp,Level*,Level,Similar,0
+3.033,5.3,으,ɯ,∅,p,D#4,51,래,lɛ,l,p,F4,53,pp,Level*,Up,Oblique (II),2
+3.034,5.3,래,lɛ,l,p,F4,53,말,mɑl,m,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+3.035,5.5,말,mɑl,m,p,D#4,51,통,tʰoŋ,tʰ,A,D#4,51,pA,Up*,Level,Oblique (I),0
+3.036,5.5,통,tʰoŋ,tʰ,A,D#4,51,하,hɑ,h,p,D#4,51,Ap,Down*,Level,Oblique (I),0
+3.037,5.5,하,hɑ,h,p,D#4,51,는,nɯn,n,p,D#4,51,pp,Level*,Level,Similar,0
+3.038,5.5,는,nɯn,n,p,D#4,51,건,kʌn,k,P,D#4,51,pP,Level*,Level,Similar,0
+3.039,5.5,건,kʌn,k,P,D#4,51,겨,kjʌ,k,P,D#4,51,PP,Level,Level,Similar,0
+3.040,5.6,겨,kjʌ,k,P,D#4,51,우,u,∅,p,F4,53,Pp,Level*,Up,Oblique (II),2
+3.041,5.6,우,u,∅,p,F4,53,친,tɕʰin,tɕʰ,A,G4,55,pA,Up*,Up,Similar,2
+3.042,5.6,친,tɕʰin,tɕʰ,A,G4,55,구,ku,k,P,D#4,51,AP,Down,Down,Similar,-4
+3.043,6.2,호,ho,h,p,A3,45,기,ki,k,P,A#3,46,pP,Level*,Up,Oblique (II),1
+3.044,6.2,기,ki,k,P,A#3,46,심,sim,s,p,C4,48,Pp,Level*,Up,Oblique (II),2
+3.045,6.2,심,sim,s,p,C4,48,은,ɯn,∅,p,D4,50,pp,Level*,Up,Oblique (II),2
+3.046,6.2,은,ɯn,∅,p,D4,50,커,kʰʌ,kʰ,A,D#4,51,pA,Up*,Up,Similar,1
+3.047,6.2,커,kʰʌ,kʰ,A,D#4,51,져,tɕjʌ,tɕ,p,D4,50,Ap,Down*,Down,Similar,-1
+3.048,6.2,져,tɕjʌ,tɕ,p,D4,50,가,kɑ,k,P,C4,48,pP,Level*,Down,Oblique (II),-2
+3.049,7.2,다,tɑ,t,P,A4,57,그,kɯ,k,P,A#4,58,PP,Level,Up,Oblique (II),1
+3.050,7.2,그,kɯ,k,P,A#4,58,런,lʌn,l,p,A#4,58,Pp,Level*,Level,Similar,0
+3.051,7.2,런,lʌn,l,p,A#4,58,거,kʌ,k,P,A#4,58,pP,Level*,Level,Similar,0
+3.052,7.2,거,kʌ,k,P,A#4,58,라,lɑ,l,p,G4,55,Pp,Level*,Down,Oblique (II),-3
+3.053,7.2,라,lɑ,l,p,G4,55,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),2
+3.054,7.2,해,hɛ,h,p,A4,57,이,i,∅,p,F4,53,pp,Level*,Down,Oblique (II),-4
+3.055,7.3,이,i,∅,p,F4,53,상,sɑŋ,s,p,F4,53,pp,Level*,Level,Similar,0
+3.056,7.3,상,sɑŋ,s,p,F4,53,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),4
+3.057,7.3,해,hɛ,h,p,A4,57,왜,wɛ,∅,p,A4,57,pp,Level*,Level,Similar,0
+3.058,7.3,왜,wɛ,∅,p,A4,57,긴,kin,k,P,A4,57,pP,Level*,Level,Similar,0
+3.059,7.3,긴,kin,k,P,A4,57,가,kɑ,k,P,A4,57,PP,Level,Level,Similar,0
+3.060,7.3,가,kɑ,k,P,A4,57,민,min,m,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+3.061,7.3,민,min,m,p,G4,55,가,kɑ,k,P,G4,55,pP,Level*,Level,Similar,0
+3.062,7.3,가,kɑ,k,P,G4,55,요,jo,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+3.063,8.2,또,t*o,t*,T,A4,57,특,tʰɯk,tʰ,A,A#4,58,TA,Up???,Up,Similar,1
+3.064,8.2,특,tʰɯk,tʰ,A,A#4,58,이,i,∅,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+3.065,8.2,이,i,∅,p,A#4,58,하,hɑ,h,p,A#4,58,pp,Level*,Level,Similar,0
+3.066,8.2,하,hɑ,h,p,A#4,58,다,tɑ,t,P,G4,55,pP,Level*,Down,Oblique (II),-3
+3.067,8.2,다,tɑ,t,P,G4,55,해,hɛ,h,p,A4,57,Pp,Level*,Up,Oblique (II),2
+3.068,8.2,해,hɛ,h,p,A4,57,말,mɑl,m,p,F4,53,pp,Level*,Down,Oblique (II),-4
+3.069,8.3,말,mɑl,m,p,F4,53,못,mot,m,p,F4,53,pp,Level*,Level,Similar,0
+3.070,8.3,못,mot,m,p,F4,53,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),4
+3.071,8.3,해,hɛ,h,p,A4,57,왜,wɛ,∅,p,A4,57,pp,Level*,Level,Similar,0
+3.072,8.3,왜,wɛ,∅,p,A4,57,긴,kin,k,P,A4,57,pP,Level*,Level,Similar,0
+3.073,8.3,긴,kin,k,P,A4,57,가,kɑ,k,P,A4,57,PP,Level,Level,Similar,0
+3.074,8.3,가,kɑ,k,P,A4,57,민,min,m,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+3.075,8.3,민,min,m,p,G4,55,가,kɑ,k,P,G4,55,pP,Level*,Level,Similar,0
+3.076,8.3,가,kɑ,k,P,G4,55,요,jo,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+3.077,15.2,다,tɑ,t,P,A4,57,그,kɯ,k,P,A#4,58,PP,Level,Up,Oblique (II),1
+3.078,15.2,그,kɯ,k,P,A#4,58,런,lʌn,l,p,A#4,58,Pp,Level*,Level,Similar,0
+3.079,15.2,런,lʌn,l,p,A#4,58,거,kʌ,k,P,A#4,58,pP,Level*,Level,Similar,0
+3.080,15.2,거,kʌ,k,P,A#4,58,라,lɑ,l,p,G4,55,Pp,Level*,Down,Oblique (II),-3
+3.081,15.2,라,lɑ,l,p,G4,55,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),2
+3.082,15.2,해,hɛ,h,p,A4,57,이,i,∅,p,F4,53,pp,Level*,Down,Oblique (II),-4
+3.083,15.3,이,i,∅,p,F4,53,상,sɑŋ,s,p,F4,53,pp,Level*,Level,Similar,0
+3.084,15.3,상,sɑŋ,s,p,F4,53,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),4
+3.085,15.3,해,hɛ,h,p,A4,57,왜,wɛ,∅,p,A4,57,pp,Level*,Level,Similar,0
+3.086,15.3,왜,wɛ,∅,p,A4,57,긴,kin,k,P,A4,57,pP,Level*,Level,Similar,0
+3.087,15.3,긴,kin,k,P,A4,57,가,kɑ,k,P,A4,57,PP,Level,Level,Similar,0
+3.088,15.3,가,kɑ,k,P,A4,57,민,min,m,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+3.089,15.3,민,min,m,p,G4,55,가,kɑ,k,P,G4,55,pP,Level*,Level,Similar,0
+3.090,15.3,가,kɑ,k,P,G4,55,요,jo,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+3.091,16.2,또,t*o,t*,T,A4,57,특,tʰɯk,tʰ,A,A#4,58,TA,Up???,Up,Similar,1
+3.092,16.2,특,tʰɯk,tʰ,A,A#4,58,이,i,∅,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+3.093,16.2,이,i,∅,p,A#4,58,하,hɑ,h,p,A#4,58,pp,Level*,Level,Similar,0
+3.094,16.2,하,hɑ,h,p,A#4,58,다,tɑ,t,P,G4,55,pP,Level*,Down,Oblique (II),-3
+3.095,16.2,다,tɑ,t,P,G4,55,해,hɛ,h,p,A4,57,Pp,Level*,Up,Oblique (II),2
+3.096,16.2,해,hɛ,h,p,A4,57,말,mɑl,m,p,F4,53,pp,Level*,Down,Oblique (II),-4
+3.097,16.3,말,mɑl,m,p,F4,53,못,mot,m,p,F4,53,pp,Level*,Level,Similar,0
+3.098,16.3,못,mot,m,p,F4,53,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),4
+3.099,16.3,해,hɛ,h,p,A4,57,왜,wɛ,∅,p,A4,57,pp,Level*,Level,Similar,0
+3.100,16.3,왜,wɛ,∅,p,A4,57,긴,kin,k,P,A4,57,pP,Level*,Level,Similar,0
+3.101,16.3,긴,kin,k,P,A4,57,가,kɑ,k,P,A4,57,PP,Level,Level,Similar,0
+3.102,16.3,가,kɑ,k,P,A4,57,민,min,m,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+3.103,16.3,민,min,m,p,G4,55,가,kɑ,k,P,G4,55,pP,Level*,Level,Similar,0
+3.104,16.3,가,kɑ,k,P,G4,55,요,jo,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+3.105,21.2,마,mɑ,m,p,D#4,51,음,ɯm,∅,p,D#4,51,pp,Level*,Level,Similar,0
+3.106,21.2,음,ɯm,∅,p,D#4,51,속,sok,s,p,G4,55,pp,Level*,Up,Oblique (II),4
+3.107,21.3,우,u,∅,p,F4,53,당,tɑŋ,t,P,F4,53,pP,Level*,Level,Similar,0
+3.108,21.3,당,tɑŋ,t,P,F4,53,탕,tʰɑŋ,tʰ,A,F4,53,PA,Up,Level,Oblique (I),0
+3.109,21.3,탕,tʰɑŋ,tʰ,A,F4,53,탕,tʰɑŋ,tʰ,A,F4,53,AA,Level,Level,Similar,0
+3.110,21.3,탕,tʰɑŋ,tʰ,A,F4,53,타,tʰɑ,tʰ,A,F4,53,AA,Level,Level,Similar,0
+3.111,21.3,타,tʰɑ,tʰ,A,F4,53,당,tɑŋ,t,P,F4,53,AP,Down,Level,Oblique (I),0
+3.112,21.3,당,tɑŋ,t,P,F4,53,울,ul,∅,p,D#4,51,Pp,Level*,Down,Oblique (II),-2
+3.113,21.3,울,ul,∅,p,D#4,51,려,ljʌ,l,p,G4,55,pp,Level*,Up,Oblique (II),4
+3.114,21.3,려,ljʌ,l,p,G4,55,더,tʌ,t,P,F4,53,pP,Level*,Down,Oblique (II),-2
+3.115,21.4,못,mot,m,p,D#4,51,참,tɕʰɑm,tɕʰ,A,G4,55,pA,Up*,Up,Similar,4
+3.116,21.4,참,tɕʰɑm,tɕʰ,A,G4,55,아,ɑ,∅,p,F4,53,Ap,Down*,Down,Similar,-2
+3.117,23.3,다,tɑ,t,P,A4,57,그,kɯ,k,P,A#4,58,PP,Level,Up,Oblique (II),1
+3.118,23.3,그,kɯ,k,P,A#4,58,런,lʌn,l,p,A#4,58,Pp,Level*,Level,Similar,0
+3.119,23.3,런,lʌn,l,p,A#4,58,거,kʌ,k,P,A#4,58,pP,Level*,Level,Similar,0
+3.120,23.3,거,kʌ,k,P,A#4,58,라,lɑ,l,p,G4,55,Pp,Level*,Down,Oblique (II),-3
+3.121,23.3,라,lɑ,l,p,G4,55,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),2
+3.122,23.3,해,hɛ,h,p,A4,57,이,i,∅,p,F4,53,pp,Level*,Down,Oblique (II),-4
+3.123,23.5,이,i,∅,p,F4,53,상,sɑŋ,s,p,F4,53,pp,Level*,Level,Similar,0
+3.124,23.5,상,sɑŋ,s,p,F4,53,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),4
+3.125,23.5,해,hɛ,h,p,A4,57,왜,wɛ,∅,p,A4,57,pp,Level*,Level,Similar,0
+3.126,23.5,왜,wɛ,∅,p,A4,57,긴,kin,k,P,A4,57,pP,Level*,Level,Similar,0
+3.127,23.5,긴,kin,k,P,A4,57,가,kɑ,k,P,A4,57,PP,Level,Level,Similar,0
+3.128,23.5,가,kɑ,k,P,A4,57,민,min,m,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+3.129,23.5,민,min,m,p,G4,55,가,kɑ,k,P,G4,55,pP,Level*,Level,Similar,0
+3.130,23.5,가,kɑ,k,P,G4,55,요,jo,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+3.131,24.3,또,t*o,t*,T,A4,57,특,tʰɯk,tʰ,A,A#4,58,TA,Up???,Up,Similar,1
+3.132,24.3,특,tʰɯk,tʰ,A,A#4,58,이,i,∅,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+3.133,24.3,이,i,∅,p,A#4,58,하,hɑ,h,p,A#4,58,pp,Level*,Level,Similar,0
+3.134,24.3,하,hɑ,h,p,A#4,58,다,tɑ,t,P,G4,55,pP,Level*,Down,Oblique (II),-3
+3.135,24.3,다,tɑ,t,P,G4,55,해,hɛ,h,p,A4,57,Pp,Level*,Up,Oblique (II),2
+3.136,24.3,해,hɛ,h,p,A4,57,말,mɑl,m,p,F4,53,pp,Level*,Down,Oblique (II),-4
+3.137,24.5,말,mɑl,m,p,F4,53,못,mot,m,p,F4,53,pp,Level*,Level,Similar,0
+3.138,24.5,못,mot,m,p,F4,53,해,hɛ,h,p,A4,57,pp,Level*,Up,Oblique (II),4
+3.139,24.5,해,hɛ,h,p,A4,57,왜,wɛ,∅,p,A4,57,pp,Level*,Level,Similar,0
+3.140,24.5,왜,wɛ,∅,p,A4,57,긴,kin,k,P,A4,57,pP,Level*,Level,Similar,0
+3.141,24.5,긴,kin,k,P,A4,57,가,kɑ,k,P,A4,57,PP,Level,Level,Similar,0
+3.142,24.5,가,kɑ,k,P,A4,57,민,min,m,p,G4,55,Pp,Level*,Down,Oblique (II),-2
+3.143,24.5,민,min,m,p,G4,55,가,kɑ,k,P,G4,55,pP,Level*,Level,Similar,0
+3.144,24.5,가,kɑ,k,P,G4,55,요,jo,∅,p,F4,53,Pp,Level*,Down,Oblique (II),-2
+4.001,4.1,놓,not,n,p,A#3,46,칠,tɕʰil,tɕʰ,A,A#4,58,pA,Up*,Up,Similar,12
+4.002,4.1,칠,tɕʰil,tɕʰ,A,A#4,58,수,su,s,p,G#4,56,Ap,Down*,Down,Similar,-2
+4.003,4.1,수,su,s,p,G#4,56,없,ʌp,∅,p,F4,53,pp,Level*,Down,Oblique (II),-3
+4.004,4.1,없,ʌp,∅,p,F4,53,어,ʌ,∅,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+4.005,4.1,어,ʌ,∅,p,D#4,51,너,nʌ,n,p,C#4,49,pp,Level*,Down,Oblique (II),-2
+4.006,4.1,너,nʌ,n,p,C#4,49,와,wa,∅,p,D#4,51,pp,Level*,Up,Oblique (II),2
+4.007,4.1,와,wa,∅,p,D#4,51,함,hɑm,h,p,D#4,51,pp,Level*,Level,Similar,0
+4.008,4.1,함,hɑm,h,p,D#4,51,께,k*ɛ,k*,T,D#4,51,pT,Up?,Level,Oblique (I),0
+4.009,4.1,께,k*ɛ,k*,T,D#4,51,난,nɑn,n,p,C#4,49,Tp,Down?,Down,Similar,-2
+4.010,4.2,설,sʌl,s,p,A#3,46,레,lɛ,l,p,A#4,58,pp,Level*,Up,Oblique (II),12
+4.011,4.2,레,lɛ,l,p,A#4,58,기,ki,k,P,G#4,56,pP,Level*,Down,Oblique (II),-2
+4.012,4.2,기,ki,k,P,G#4,56,좋,tɕot,tɕ,p,F4,53,Pp,Level*,Down,Oblique (II),-3
+4.013,4.2,좋,tɕot,tɕ,p,F4,53,은,ɯn,∅,p,G#4,56,pp,Level*,Up,Oblique (II),3
+4.014,5.5,이,i,∅,p,A#3,46,순,sun,s,p,C#4,49,pp,Level*,Up,Oblique (II),3
+4.015,5.5,순,sun,s,p,C#4,49,간,kɑn,k,P,C4,48,pP,Level*,Down,Oblique (II),-1
+4.016,5.5,간,kɑn,k,P,C4,48,내,nɛ,n,p,A#3,46,Pp,Level*,Down,Oblique (II),-2
+4.017,5.5,내,nɛ,n,p,A#3,46,마,mɑ,m,p,A#3,46,pp,Level*,Level,Similar,0
+4.018,5.5,마,mɑ,m,p,A#3,46,음,ɯm,∅,p,C#4,49,pp,Level*,Up,Oblique (II),3
+4.019,5.5,음,ɯm,∅,p,C#4,49,이,i,∅,p,C4,48,pp,Level*,Down,Oblique (II),-1
+4.020,5.5,이,i,∅,p,C4,48,춤,tɕʰum,tɕʰ,A,C#4,49,pA,Up*,Up,Similar,1
+4.021,5.5,춤,tɕʰum,tɕʰ,A,C#4,49,춰,tɕʰwʌ,tɕʰ,A,C4,48,AA,Level,Down,Oblique (II),-1
+4.022,8.3,저,tɕʌ,tɕ,p,A#3,46,태,tʰɛ,tʰ,A,F4,53,pA,Up*,Up,Similar,7
+4.023,8.3,태,tʰɛ,tʰ,A,F4,53,양,jaŋ,∅,p,D#4,51,Ap,Down*,Down,Similar,-2
+4.024,8.3,양,jaŋ,∅,p,D#4,51,아,ɑ,∅,p,C#4,49,pp,Level*,Down,Oblique (II),-2
+4.025,8.3,아,ɑ,∅,p,C#4,49,래,lɛ,l,p,D#4,51,pp,Level*,Up,Oblique (II),2
+4.026,8.3,래,lɛ,l,p,D#4,51,녹,nok,n,p,A#3,46,pp,Level*,Down,Oblique (II),-5
+4.027,8.4,녹,nok,n,p,A#3,46,아,ɑ,∅,p,A#3,46,pp,Level*,Level,Similar,0
+4.028,8.4,아,ɑ,∅,p,A#3,46,들,tɯl,t,P,C#4,49,pP,Level*,Up,Oblique (II),3
+4.029,8.4,들,tɯl,t,P,C#4,49,어,ʌ,∅,p,C#4,49,Pp,Level*,Level,Similar,0
+4.030,9.3,올,ol,∅,p,A#3,46,라,lɑ,l,p,F4,53,pp,Level*,Up,Oblique (II),7
+4.031,9.3,라,lɑ,l,p,F4,53,타,tʰɑ,tʰ,A,D#4,51,pA,Up*,Down,Contrary,-2
+4.032,9.3,타,tʰɑ,tʰ,A,D#4,51,지,tɕi,tɕ,p,C#4,49,Ap,Down*,Down,Similar,-2
+4.033,9.3,지,tɕi,tɕ,p,C#4,49,금,kɯm,k,P,D#4,51,pP,Level*,Up,Oblique (II),2
+4.034,9.3,금,kɯm,k,P,D#4,51,우,u,∅,p,A#3,46,Pp,Level*,Down,Oblique (II),-5
+4.035,9.3,우,u,∅,p,A#3,46,리,li,l,p,A#3,46,pp,Level*,Level,Similar,0
+4.036,11.1,거,kʌ,k,P,D#4,51,부,pu,p,P,D#4,51,PP,Level,Level,Similar,0
+4.037,11.1,부,pu,p,P,D#4,51,할,hɑl,h,p,D#4,51,Pp,Level*,Level,Similar,0
+4.038,11.1,할,hɑl,h,p,D#4,51,수,su,s,p,D#4,51,pp,Level*,Level,Similar,0
+4.039,11.1,수,su,s,p,D#4,51,없,ʌp,∅,p,F4,53,pp,Level*,Up,Oblique (II),2
+4.040,11.1,없,ʌp,∅,p,F4,53,는,nɯn,n,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+4.041,11.2,우,u,∅,p,D#4,51,리,li,l,p,D#4,51,pp,Level*,Level,Similar,0
+4.042,11.2,리,li,l,p,D#4,51,앞,ɑp,∅,p,D#4,51,pp,Level*,Level,Similar,0
+4.043,11.2,앞,ɑp,∅,p,D#4,51,에,ɛ,∅,p,D#4,51,pp,Level*,Level,Similar,0
+4.044,11.2,에,ɛ,∅,p,D#4,51,펼,pʰjʌl,pʰ,A,F4,53,pA,Up*,Up,Similar,2
+4.045,11.2,펼,pʰjʌl,pʰ,A,F4,53,쳐,tɕʰjʌ,tɕʰ,A,D#4,51,AA,Level,Down,Oblique (II),-2
+4.046,11.2,쳐,tɕʰjʌ,tɕʰ,A,D#4,51,진,tɕin,tɕ,p,D#4,51,Ap,Down*,Level,Oblique (I),0
+4.047,11.3,떨,t*ʌl,t*,T,G#4,56,려,ljʌ,l,p,G#4,56,Tp,Down?,Level,Oblique (I),0
+4.048,11.3,려,ljʌ,l,p,G#4,56,와,wa,∅,p,G#4,56,pp,Level*,Level,Similar,0
+4.049,11.3,와,wa,∅,p,G#4,56,너,nʌ,n,p,F4,53,pp,Level*,Down,Oblique (II),-3
+4.050,11.3,너,nʌ,n,p,F4,53,라,lɑ,l,p,G#4,56,pp,Level*,Up,Oblique (II),3
+4.051,11.3,라,lɑ,l,p,G#4,56,는,nɯn,n,p,A#4,58,pp,Level*,Up,Oblique (II),2
+4.052,11.4,내,nɛ,n,p,C#4,49,맘,mɑm,m,p,D#4,51,pp,Level*,Up,Oblique (II),2
+4.053,11.4,맘,mɑm,m,p,D#4,51,을,ɯl,∅,p,F4,53,pp,Level*,Up,Oblique (II),2
+4.054,11.4,을,ɯl,∅,p,F4,53,적,tɕʌk,tɕ,p,F4,53,pp,Level*,Level,Similar,0
+4.055,11.4,적,tɕʌk,tɕ,p,F4,53,셔,sjʌ,s,p,F4,53,pp,Level*,Level,Similar,0
+4.056,12.1,놓,not,n,p,A#3,46,칠,tɕʰil,tɕʰ,A,A#4,58,pA,Up*,Up,Similar,12
+4.057,12.1,칠,tɕʰil,tɕʰ,A,A#4,58,수,su,s,p,G#4,56,Ap,Down*,Down,Similar,-2
+4.058,12.1,수,su,s,p,G#4,56,없,ʌp,∅,p,F4,53,pp,Level*,Down,Oblique (II),-3
+4.059,12.1,없,ʌp,∅,p,F4,53,어,ʌ,∅,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+4.060,12.1,어,ʌ,∅,p,D#4,51,너,nʌ,n,p,C#4,49,pp,Level*,Down,Oblique (II),-2
+4.061,12.1,너,nʌ,n,p,C#4,49,와,wa,∅,p,D#4,51,pp,Level*,Up,Oblique (II),2
+4.062,12.1,와,wa,∅,p,D#4,51,난,nɑn,n,p,D#4,51,pp,Level*,Level,Similar,0
+4.063,12.2,붕,puŋ,p,P,A#3,46,뜨,t*ɯ,t*,T,A#4,58,PT,Up?,Up,Similar,12
+4.064,12.2,뜨,t*ɯ,t*,T,A#4,58,는,nɯn,n,p,G#4,56,Tp,Down?,Down,Similar,-2
+4.065,12.2,는,nɯn,n,p,G#4,56,기,ki,k,P,F4,53,pP,Level*,Down,Oblique (II),-3
+4.066,12.2,기,ki,k,P,F4,53,분,pun,p,P,G#4,56,PP,Level,Up,Oblique (II),3
+4.067,13.5,이,i,∅,p,A#3,46,순,sun,s,p,C#4,49,pp,Level*,Up,Oblique (II),3
+4.068,13.5,순,sun,s,p,C#4,49,간,kɑn,k,P,C4,48,pP,Level*,Down,Oblique (II),-1
+4.069,13.5,간,kɑn,k,P,C4,48,온,on,∅,p,A#3,46,Pp,Level*,Down,Oblique (II),-2
+4.070,13.5,온,on,∅,p,A#3,46,세,sɛ,s,p,A#3,46,pp,Level*,Level,Similar,0
+4.071,13.5,세,sɛ,s,p,A#3,46,상,sɑŋ,s,p,C#4,49,pp,Level*,Up,Oblique (II),3
+4.072,13.5,상,sɑŋ,s,p,C#4,49,이,i,∅,p,C4,48,pp,Level*,Down,Oblique (II),-1
+4.073,13.5,이,i,∅,p,C4,48,춤,tɕʰum,tɕʰ,A,C#4,49,pA,Up*,Up,Similar,1
+4.074,13.5,춤,tɕʰum,tɕʰ,A,C#4,49,춰,tɕʰwʌ,tɕʰ,A,C4,48,AA,Level,Down,Oblique (II),-1
+4.075,16.3,저,tɕʌ,tɕ,p,A#3,46,태,tʰɛ,tʰ,A,F4,53,pA,Up*,Up,Similar,7
+4.076,16.3,태,tʰɛ,tʰ,A,F4,53,양,jaŋ,∅,p,D#4,51,Ap,Down*,Down,Similar,-2
+4.077,16.3,양,jaŋ,∅,p,D#4,51,아,ɑ,∅,p,C#4,49,pp,Level*,Down,Oblique (II),-2
+4.078,16.3,아,ɑ,∅,p,C#4,49,래,lɛ,l,p,D#4,51,pp,Level*,Up,Oblique (II),2
+4.079,16.3,래,lɛ,l,p,D#4,51,녹,nok,n,p,A#3,46,pp,Level*,Down,Oblique (II),-5
+4.080,16.4,녹,nok,n,p,A#3,46,아,ɑ,∅,p,A#3,46,pp,Level*,Level,Similar,0
+4.081,16.4,아,ɑ,∅,p,A#3,46,들,tɯl,t,P,C#4,49,pP,Level*,Up,Oblique (II),3
+4.082,16.4,들,tɯl,t,P,C#4,49,어,ʌ,∅,p,C#4,49,Pp,Level*,Level,Similar,0
+4.083,17.3,올,ol,∅,p,A#3,46,라,lɑ,l,p,F4,53,pp,Level*,Up,Oblique (II),7
+4.084,17.3,라,lɑ,l,p,F4,53,타,tʰɑ,tʰ,A,D#4,51,pA,Up*,Down,Contrary,-2
+4.085,17.3,타,tʰɑ,tʰ,A,D#4,51,지,tɕi,tɕ,p,C#4,49,Ap,Down*,Down,Similar,-2
+4.086,17.3,지,tɕi,tɕ,p,C#4,49,금,kɯm,k,P,D#4,51,pP,Level*,Up,Oblique (II),2
+4.087,17.3,금,kɯm,k,P,D#4,51,우,u,∅,p,A#3,46,Pp,Level*,Down,Oblique (II),-5
+4.088,17.3,우,u,∅,p,A#3,46,리,li,l,p,A#3,46,pp,Level*,Level,Similar,0
+4.089,18.1,멈,mʌm,m,p,C#4,49,추,tɕʰu,tɕʰ,A,C#4,49,pA,Up*,Level,Oblique (I),0
+4.090,18.1,추,tɕʰu,tɕʰ,A,C#4,49,지,tɕi,tɕ,p,C#4,49,Ap,Down*,Level,Oblique (I),0
+4.091,18.1,지,tɕi,tɕ,p,C#4,49,마,mɑ,m,p,F4,53,pp,Level*,Up,Oblique (II),4
+4.092,18.1,마,mɑ,m,p,F4,53,태,tʰɛ,tʰ,A,F4,53,pA,Up*,Level,Oblique (I),0
+4.093,18.2,태,tʰɛ,tʰ,A,F4,53,양,jaŋ,∅,p,F4,53,Ap,Down*,Level,Oblique (I),0
+4.094,18.2,양,jaŋ,∅,p,F4,53,이,i,∅,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+4.095,18.2,이,i,∅,p,D#4,51,져,tɕjʌ,tɕ,p,D#4,51,pp,Level*,Level,Similar,0
+4.096,18.2,져,tɕjʌ,tɕ,p,D#4,51,도,to,t,P,C#4,49,pP,Level*,Down,Oblique (II),-2
+4.097,18.2,도,to,t,P,C#4,49,영,jʌŋ,∅,p,D#4,51,Pp,Level*,Up,Oblique (II),2
+4.098,18.2,영,jʌŋ,∅,p,D#4,51,원,wʌn,∅,p,D#4,51,pp,Level*,Level,Similar,0
+4.099,18.2,원,wʌn,∅,p,D#4,51,히,hi,h,p,D#4,51,pp,Level*,Level,Similar,0
+4.100,18.2,히,hi,h,p,D#4,51,너,nʌ,n,p,C#4,49,pp,Level*,Down,Oblique (II),-2
+4.101,18.3,너,nʌ,n,p,C#4,49,와,wa,∅,p,C#4,49,pp,Level*,Level,Similar,0
+4.102,18.3,와,wa,∅,p,C#4,49,함,hɑm,h,p,F4,53,pp,Level*,Up,Oblique (II),4
+4.103,18.3,함,hɑm,h,p,F4,53,께,k*ɛ,k*,T,F4,53,pT,Up?,Level,Oblique (I),0
+4.104,18.3,께,k*ɛ,k*,T,F4,53,기,ki,k,P,G#4,56,TP,Down?,Up,Contrary,3
+4.105,18.3,기,ki,k,P,G#4,56,억,ʌk,∅,p,G#4,56,Pp,Level*,Level,Similar,0
+4.106,18.3,억,ʌk,∅,p,G#4,56,될,twɛl,t,P,F4,53,pP,Level*,Down,Oblique (II),-3
+4.107,18.3,될,twɛl,t,P,F4,53,춤,tɕʰum,tɕʰ,A,D#4,51,PA,Up,Down,Contrary,-2
+4.108,18.3,춤,tɕʰum,tɕʰ,A,D#4,51,을,ɯl,∅,p,C#4,49,Ap,Down*,Down,Similar,-2
+4.109,18.3,을,ɯl,∅,p,C#4,49,출,tɕʰul,tɕʰ,A,D#4,51,pA,Up*,Up,Similar,2
+4.110,18.3,출,tɕʰul,tɕʰ,A,D#4,51,거,kʌ,k,P,F4,53,AP,Down,Up,Contrary,2
+4.111,18.3,거,kʌ,k,P,F4,53,야,ja,∅,p,D#4,51,Pp,Level*,Down,Oblique (II),-2
+4.112,18.3,야,ja,∅,p,D#4,51,어,ʌ,∅,p,A#3,46,pp,Level*,Down,Oblique (II),-5
+4.113,18.4,어,ʌ,∅,p,A#3,46,김,kim,k,P,G#3,44,pP,Level*,Down,Oblique (II),-2
+4.114,18.4,김,kim,k,P,G#3,44,없,ʌp,∅,p,F3,41,Pp,Level*,Down,Oblique (II),-3
+4.115,18.4,없,ʌp,∅,p,F3,41,이,i,∅,p,F#3,42,pp,Level*,Up,Oblique (II),1
+4.116,18.4,이,i,∅,p,F#3,42,내,nɛ,n,p,F3,41,pp,Level*,Down,Oblique (II),-1
+4.117,18.4,내,nɛ,n,p,F3,41,초,tɕʰo,tɕʰ,A,G#3,44,pA,Up*,Up,Similar,3
+4.118,18.4,초,tɕʰo,tɕʰ,A,G#3,44,점,tɕʌm,tɕ,p,A#3,46,Ap,Down*,Up,Contrary,2
+4.119,18.4,점,tɕʌm,tɕ,p,A#3,46,은,ɯn,∅,p,C4,48,pp,Level*,Up,Oblique (II),2
+4.120,18.5,보,po,p,P,A#3,46,여,jʌ,∅,p,C4,48,Pp,Level*,Up,Oblique (II),2
+4.121,18.6,우,u,∅,p,A#4,58,린,lin,l,p,G#4,56,pp,Level*,Down,Oblique (II),-2
+4.122,18.6,린,lin,l,p,G#4,56,리,li,l,p,F4,53,pp,Level*,Down,Oblique (II),-3
+4.123,18.6,리,li,l,p,F4,53,듬,tɯm,t,P,D#4,51,pP,Level*,Down,Oblique (II),-2
+4.124,18.6,듬,tɯm,t,P,D#4,51,에,ɛ,∅,p,F4,53,Pp,Level*,Up,Oblique (II),2
+4.125,18.6,에,ɛ,∅,p,F4,53,물,mul,m,p,D#4,51,pp,Level*,Down,Oblique (II),-2
+4.126,18.6,물,mul,m,p,D#4,51,들,tɯl,t,P,C#4,49,pP,Level*,Down,Oblique (II),-2
+4.127,18.6,들,tɯl,t,P,C#4,49,어,ʌ,∅,p,A#3,46,Pp,Level*,Down,Oblique (II),-3
+4.128,21.3,손,son,s,p,A#3,46,쓸,s*ɯl,s*,t,F4,53,pt,Up?,Up,Similar,7
+4.129,21.3,쓸,s*ɯl,s*,t,F4,53,틈,tʰɯm,tʰ,A,D#4,51,tA,Up???,Down,Contrary,-2
+4.130,21.3,틈,tʰɯm,tʰ,A,D#4,51,없,ʌp,∅,p,C#4,49,Ap,Down*,Down,Similar,-2
+4.131,21.3,없,ʌp,∅,p,C#4,49,이,i,∅,p,D#4,51,pp,Level*,Up,Oblique (II),2
+4.132,21.3,이,i,∅,p,D#4,51,빠,p*ɑ,p*,T,A#3,46,pT,Up?,Down,Contrary,-5
+4.133,21.4,빠,p*ɑ,p*,T,A#3,46,져,tɕjʌ,tɕ,p,A#3,46,Tp,Down?,Level,Oblique (I),0
+4.134,21.4,져,tɕjʌ,tɕ,p,A#3,46,들,tɯl,t,P,C#4,49,pP,Level*,Up,Oblique (II),3
+4.135,21.4,들,tɯl,t,P,C#4,49,어,ʌ,∅,p,C#4,49,Pp,Level*,Level,Similar,0
+4.136,22.3,하,hɑ,h,p,A#3,46,나,nɑ,n,p,F4,53,pp,Level*,Up,Oblique (II),7
+4.137,22.3,나,nɑ,n,p,F4,53,가,kɑ,k,P,D#4,51,pP,Level*,Down,Oblique (II),-2
+4.138,22.3,가,kɑ,k,P,D#4,51,되,twɛ,t,P,C#4,49,PP,Level,Down,Oblique (II),-2
+4.139,22.3,되,twɛ,t,P,C#4,49,는,nɯn,n,p,D#4,51,Pp,Level*,Up,Oblique (II),2
+4.140,22.3,는,nɯn,n,p,D#4,51,우,u,∅,p,A#3,46,pp,Level*,Down,Oblique (II),-5
+4.141,22.3,우,u,∅,p,A#3,46,리,li,l,p,A#3,46,pp,Level*,Level,Similar,0
+4.142,22.3,리,li,l,p,A#3,46,지,tɕi,tɕ,p,C#4,49,pp,Level*,Up,Oblique (II),3
+4.143,22.3,지,tɕi,tɕ,p,C#4,49,금,kɯm,k,P,C#4,49,pP,Level*,Level,Similar,0
+5.001,3.1,긴,kin,k,P,E5,64,꿈,k*um,k*,T,B5,71,PT,Up?,Up,Similar,7
+5.002,3.1,꿈,k*um,k*,T,B5,71,을,ɯl,∅,p,B5,71,Tp,Down?,Level,Oblique (I),0
+5.003,3.1,을,ɯl,∅,p,B5,71,꾸,k*u,k*,T,B5,71,pT,Up?,Level,Oblique (I),0
+5.004,3.1,꾸,k*u,k*,T,B5,71,게,kɛ,k,P,B5,71,TP,Down?,Level,Oblique (I),0
+5.005,3.1,게,kɛ,k,P,B5,71,해,hɛ,h,p,E5,64,Pp,Level*,Down,Oblique (II),-7
+5.006,3.1,해,hɛ,h,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+5.007,3.2,이,i,∅,p,E5,64,방,pɑŋ,p,P,B5,71,pP,Level*,Up,Oblique (II),7
+5.008,3.2,방,pɑŋ,p,P,B5,71,은,ɯn,∅,p,B5,71,Pp,Level*,Level,Similar,0
+5.009,3.2,은,ɯn,∅,p,B5,71,작,tɕɑk,tɕ,p,B5,71,pp,Level*,Level,Similar,0
+5.010,3.2,작,tɕɑk,tɕ,p,B5,71,은,ɯn,∅,p,B5,71,pp,Level*,Level,Similar,0
+5.011,3.3,춤,tɕʰum,tɕʰ,A,B5,71,을,ɯl,∅,p,B5,71,Ap,Down*,Level,Oblique (I),0
+5.012,3.3,을,ɯl,∅,p,B5,71,추,tɕʰu,tɕʰ,A,B5,71,pA,Up*,Level,Oblique (I),0
+5.013,3.3,추,tɕʰu,tɕʰ,A,B5,71,곤,kon,k,P,B5,71,AP,Down,Level,Oblique (I),0
+5.014,3.3,곤,kon,k,P,B5,71,해,hɛ,h,p,E5,64,Pp,Level*,Down,Oblique (II),-7
+5.015,3.3,해,hɛ,h,p,E5,64,실,sil,s,p,E5,64,pp,Level*,Level,Similar,0
+5.016,3.3,실,sil,s,p,E5,64,컷,kʰʌt,kʰ,A,E5,64,pA,Up*,Level,Oblique (I),0
+5.017,3.3,컷,kʰʌt,kʰ,A,E5,64,어,ʌ,∅,p,B5,71,Ap,Down*,Up,Contrary,7
+5.018,3.3,어,ʌ,∅,p,B5,71,지,tɕi,tɕ,p,B5,71,pp,Level*,Level,Similar,0
+5.019,3.3,지,tɕi,tɕ,p,B5,71,러,lʌ,l,p,B5,71,pp,Level*,Level,Similar,0
+5.020,3.3,러,lʌ,l,p,B5,71,울,ul,∅,p,B5,71,pp,Level*,Level,Similar,0
+5.021,3.3,울,ul,∅,p,B5,71,만,mɑn,m,p,D6,74,pp,Level*,Up,Oblique (II),3
+5.022,3.3,만,mɑn,m,p,D6,74,큼,kʰɯm,kʰ,A,A5,69,pA,Up*,Down,Contrary,-5
+5.023,3.5,한,hɑn,h,p,E4,52,칸,kʰɑn,kʰ,A,E4,52,pA,Up*,Level,Oblique (I),0
+5.024,3.5,칸,kʰɑn,kʰ,A,E4,52,더,tʌ,t,P,A4,57,AP,Down,Up,Contrary,5
+5.025,3.5,더,tʌ,t,P,A4,57,채,tɕʰɛ,tɕʰ,A,G#4,56,PA,Up,Down,Contrary,-1
+5.026,3.5,채,tɕʰɛ,tɕʰ,A,G#4,56,우,u,∅,p,G#4,56,Ap,Down*,Level,Oblique (I),0
+5.027,3.5,우,u,∅,p,G#4,56,고,ko,k,P,G#4,56,pP,Level*,Level,Similar,0
+5.028,3.5,고,ko,k,P,G#4,56,있,it,∅,p,G#4,56,Pp,Level*,Level,Similar,0
+5.029,3.5,있,it,∅,p,G#4,56,어,ʌ,∅,p,E4,52,pp,Level*,Down,Oblique (II),-4
+5.030,3.5,어,ʌ,∅,p,E4,52,잘,tɕɑl,tɕ,p,E4,52,pp,Level*,Level,Similar,0
+5.031,3.6,잘,tɕɑl,tɕ,p,E4,52,봐,pwa,p,P,D4,50,pP,Level*,Down,Oblique (II),-2
+5.032,4.1,투,tʰu,tʰ,A,G#5,68,명,mjʌŋ,m,p,G#5->F#5,68,Ap,Down*,Level,Oblique (I),0
+5.033,4.1,명,mjʌŋ,m,p,F#5,66,한,hɑn,h,p,F#5,66,pp,Level*,Level,Similar,0
+5.034,4.1,한,hɑn,h,p,F#5,66,너,nʌ,n,p,F#5,66,pp,Level*,Level,Similar,0
+5.035,4.1,너,nʌ,n,p,F#5,66,와,wa,∅,p,E5,64,pp,Level*,Down,Oblique (II),-2
+5.036,4.1,와,wa,∅,p,E5,64,나,nɑ,n,p,E5,64,pp,Level*,Level,Similar,0
+5.037,4.1,나,nɑ,n,p,E5,64,의,ɰi,∅,p,E5,64,pp,Level*,Level,Similar,0
+5.038,4.1,의,ɰi,∅,p,E5,64,사,sɑ,s,p,E5,64,pp,Level*,Level,Similar,0
+5.039,4.1,사,sɑ,s,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+5.040,4.1,이,i,∅,p,E5,64,가,kɑ,k,P,G5,67,pP,Level*,Up,Oblique (II),3
+5.041,4.2,가,kɑ,k,P,G5,67,만,mɑn,m,p,G5->F#5,67,Pp,Level*,Level,Similar,0
+5.042,4.2,만,mɑn,m,p,F#5,66,히,hi,h,p,F#5,66,pp,Level*,Level,Similar,0
+5.043,4.2,히,hi,h,p,F#5,66,들,tɯl,t,P,F#5,66,pP,Level*,Level,Similar,0
+5.044,4.2,들,tɯl,t,P,F#5,66,여,jʌ,∅,p,E5,64,Pp,Level*,Down,Oblique (II),-2
+5.045,4.2,여,jʌ,∅,p,E5,64,다,tɑ,t,P,E5,64,pP,Level*,Level,Similar,0
+5.046,4.2,다,tɑ,t,P,E5,64,보,po,p,P,B5,71,PP,Level,Up,Oblique (II),7
+5.047,4.2,보,po,p,P,B5,71,다,tɑ,t,P,G#5,68,PP,Level,Down,Oblique (II),-3
+5.048,4.2,다,tɑ,t,P,G#5,68,일,il,∅,p,G#5,68,Pp,Level*,Level,Similar,0
+5.049,4.3,일,il,∅,p,G#5,68,렁,lʌŋ,l,p,G#5->F#5,68,pp,Level*,Level,Similar,0
+5.050,4.3,렁,lʌŋ,l,p,F#5,66,인,in,∅,p,F#5,66,pp,Level*,Level,Similar,0
+5.051,4.3,인,in,∅,p,F#5,66,물,mul,m,p,F#5,66,pp,Level*,Level,Similar,0
+5.052,4.3,물,mul,m,p,F#5,66,결,kjʌl,k,P,E5,64,pP,Level*,Down,Oblique (II),-2
+5.053,4.3,결,kjʌl,k,P,E5,64,속,sok,s,p,E5,64,Pp,Level*,Level,Similar,0
+5.054,4.3,속,sok,s,p,E5,64,으,ɯ,∅,p,E5->D5,64,pp,Level*,Level,Similar,0
+5.055,4.3,으,ɯ,∅,p,D5,62,로,lo,l,p,E5,64,pp,Level*,Up,Oblique (II),2
+5.056,4.3,로,lo,l,p,E5,64,더,tʌ,t,P,E5,64,pP,Level*,Level,Similar,0
+5.057,4.4,더,tʌ,t,P,E5,64,빠,p*ɑ,p*,T,E5,64,PT,Up?,Level,Oblique (I),0
+5.058,4.4,빠,p*ɑ,p*,T,E5,64,져,tɕjʌ,tɕ,p,E5,64,Tp,Down?,Level,Oblique (I),0
+5.059,4.4,져,tɕjʌ,tɕ,p,E5,64,드,tɯ,t,P,F#5,66,pP,Level*,Up,Oblique (II),2
+5.060,4.4,드,tɯ,t,P,F#5,66,는,nɯn,n,p,E5,64,Pp,Level*,Down,Oblique (II),-2
+5.061,4.4,는,nɯn,n,p,E5,64,걸,kʌl,k,P,G5->F#5,67,pP,Level*,Up,Oblique (II),3
+5.062,6.1,긴,kin,k,P,E5,64,꿈,k*um,k*,T,B5,71,PT,Up?,Up,Similar,7
+5.063,6.1,꿈,k*um,k*,T,B5,71,을,ɯl,∅,p,B5,71,Tp,Down?,Level,Oblique (I),0
+5.064,6.1,을,ɯl,∅,p,B5,71,꾸,k*u,k*,T,B5,71,pT,Up?,Level,Oblique (I),0
+5.065,6.1,꾸,k*u,k*,T,B5,71,게,kɛ,k,P,B5,71,TP,Down?,Level,Oblique (I),0
+5.066,6.1,게,kɛ,k,P,B5,71,해,hɛ,h,p,E5,64,Pp,Level*,Down,Oblique (II),-7
+5.067,6.1,해,hɛ,h,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+5.068,6.2,이,i,∅,p,E5,64,방,pɑŋ,p,P,B5,71,pP,Level*,Up,Oblique (II),7
+5.069,6.2,방,pɑŋ,p,P,B5,71,은,ɯn,∅,p,B5,71,Pp,Level*,Level,Similar,0
+5.070,6.2,은,ɯn,∅,p,B5,71,작,tɕɑk,tɕ,p,B5,71,pp,Level*,Level,Similar,0
+5.071,6.2,작,tɕɑk,tɕ,p,B5,71,은,ɯn,∅,p,B5,71,pp,Level*,Level,Similar,0
+5.072,6.3,춤,tɕʰum,tɕʰ,A,B5,71,을,ɯl,∅,p,B5,71,Ap,Down*,Level,Oblique (I),0
+5.073,6.3,을,ɯl,∅,p,B5,71,추,tɕʰu,tɕʰ,A,B5,71,pA,Up*,Level,Oblique (I),0
+5.074,6.3,추,tɕʰu,tɕʰ,A,B5,71,곤,kon,k,P,B5,71,AP,Down,Level,Oblique (I),0
+5.075,6.3,곤,kon,k,P,B5,71,해,hɛ,h,p,E5,64,Pp,Level*,Down,Oblique (II),-7
+5.076,6.3,해,hɛ,h,p,E5,64,실,sil,s,p,E5,64,pp,Level*,Level,Similar,0
+5.077,6.3,실,sil,s,p,E5,64,컷,kʰʌt,kʰ,A,E5,64,pA,Up*,Level,Oblique (I),0
+5.078,6.3,컷,kʰʌt,kʰ,A,E5,64,어,ʌ,∅,p,B5,71,Ap,Down*,Up,Contrary,7
+5.079,6.3,어,ʌ,∅,p,B5,71,지,tɕi,tɕ,p,B5,71,pp,Level*,Level,Similar,0
+5.080,6.3,지,tɕi,tɕ,p,B5,71,러,lʌ,l,p,B5,71,pp,Level*,Level,Similar,0
+5.081,6.3,러,lʌ,l,p,B5,71,울,ul,∅,p,B5,71,pp,Level*,Level,Similar,0
+5.082,6.3,울,ul,∅,p,B5,71,만,mɑn,m,p,D6,74,pp,Level*,Up,Oblique (II),3
+5.083,6.3,만,mɑn,m,p,D6,74,큼,kʰɯm,kʰ,A,A5,69,pA,Up*,Down,Contrary,-5
+5.084,6.5,한,hɑn,h,p,E4,52,칸,kʰɑn,kʰ,A,E4,52,pA,Up*,Level,Oblique (I),0
+5.085,6.5,칸,kʰɑn,kʰ,A,E4,52,더,tʌ,t,P,A4,57,AP,Down,Up,Contrary,5
+5.086,6.5,더,tʌ,t,P,A4,57,채,tɕʰɛ,tɕʰ,A,G#4,56,PA,Up,Down,Contrary,-1
+5.087,6.5,채,tɕʰɛ,tɕʰ,A,G#4,56,우,u,∅,p,G#4,56,Ap,Down*,Level,Oblique (I),0
+5.088,6.5,우,u,∅,p,G#4,56,고,ko,k,P,G#4,56,pP,Level*,Level,Similar,0
+5.089,6.5,고,ko,k,P,G#4,56,있,it,∅,p,G#4,56,Pp,Level*,Level,Similar,0
+5.090,6.5,있,it,∅,p,G#4,56,어,ʌ,∅,p,E4,52,pp,Level*,Down,Oblique (II),-4
+5.091,6.5,어,ʌ,∅,p,E4,52,잘,tɕɑl,tɕ,p,E4,52,pp,Level*,Level,Similar,0
+5.092,6.6,잘,tɕɑl,tɕ,p,E4,52,봐,pwa,p,P,D4,50,pP,Level*,Down,Oblique (II),-2
+5.093,7.1,내,nɛ,n,p,A5,69,앞,ɑp,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.094,7.1,앞,ɑp,∅,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.095,7.1,에,ɛ,∅,p,A5,69,있,it,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.096,7.1,있,it,∅,p,A5,69,는,nɯn,n,p,A5,69,pp,Level*,Level,Similar,0
+5.097,7.1,는,nɯn,n,p,A5,69,너,nʌ,n,p,B5,71,pp,Level*,Up,Oblique (II),2
+5.098,7.1,너,nʌ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.099,7.1,를,lɯl,l,p,E5,64,그,kɯ,k,P,A5,69,pP,Level*,Up,Oblique (II),5
+5.100,7.2,그,kɯ,k,P,A5,69,눈,nun,n,p,A5,69,Pp,Level*,Level,Similar,0
+5.101,7.2,눈,nun,n,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.102,7.2,에,ɛ,∅,p,A5,69,비,pi,p,P,A5,69,pP,Level*,Level,Similar,0
+5.103,7.2,비,pi,p,P,A5,69,친,tɕʰin,tɕʰ,A,A5,69,PA,Up,Level,Oblique (I),0
+5.104,7.2,친,tɕʰin,tɕʰ,A,A5,69,나,nɑ,n,p,B5,71,Ap,Down*,Up,Contrary,2
+5.105,7.2,나,nɑ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.106,7.4,내,nɛ,n,p,A5,69,앞,ɑp,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.107,7.4,앞,ɑp,∅,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.108,7.4,에,ɛ,∅,p,A5,69,있,it,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.109,7.4,있,it,∅,p,A5,69,는,nɯn,n,p,A5,69,pp,Level*,Level,Similar,0
+5.110,7.4,는,nɯn,n,p,A5,69,너,nʌ,n,p,B5,71,pp,Level*,Up,Oblique (II),2
+5.111,7.4,너,nʌ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.112,7.4,를,lɯl,l,p,E5,64,그,kɯ,k,P,A5,69,pP,Level*,Up,Oblique (II),5
+5.113,7.5,그,kɯ,k,P,A5,69,눈,nun,n,p,A5,69,Pp,Level*,Level,Similar,0
+5.114,7.5,눈,nun,n,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.115,7.5,에,ɛ,∅,p,A5,69,비,pi,p,P,A5,69,pP,Level*,Level,Similar,0
+5.116,7.5,비,pi,p,P,A5,69,친,tɕʰin,tɕʰ,A,A5,69,PA,Up,Level,Oblique (I),0
+5.117,7.5,친,tɕʰin,tɕʰ,A,A5,69,나,nɑ,n,p,B5,71,Ap,Down*,Up,Contrary,2
+5.118,7.5,나,nɑ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.119,7.6,가,kɑ,k,P,D4,50,만,mɑn,m,p,D4,50,Pp,Level*,Level,Similar,0
+5.120,7.6,만,mɑn,m,p,D4,50,히,hi,h,p,E4,52,pp,Level*,Up,Oblique (II),2
+5.121,7.6,히,hi,h,p,E4,52,바,pɑ,p,P,F#4,54,pP,Level*,Up,Oblique (II),2
+5.122,7.6,바,pɑ,p,P,F#4,54,라,lɑ,l,p,D4,50,Pp,Level*,Down,Oblique (II),-4
+5.123,7.6,라,lɑ,l,p,D4,50,봐,pwa,p,P,E4,52,pP,Level*,Up,Oblique (II),2
+5.124,9.1,긴,kin,k,P,E5,64,꿈,k*um,k*,T,B5,71,PT,Up?,Up,Similar,7
+5.125,9.1,꿈,k*um,k*,T,B5,71,을,ɯl,∅,p,B5,71,Tp,Down?,Level,Oblique (I),0
+5.126,9.1,을,ɯl,∅,p,B5,71,꾸,k*u,k*,T,B5,71,pT,Up?,Level,Oblique (I),0
+5.127,9.1,꾸,k*u,k*,T,B5,71,게,kɛ,k,P,B5,71,TP,Down?,Level,Oblique (I),0
+5.128,9.1,게,kɛ,k,P,B5,71,해,hɛ,h,p,E5,64,Pp,Level*,Down,Oblique (II),-7
+5.129,9.1,해,hɛ,h,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+5.130,9.2,이,i,∅,p,E5,64,방,pɑŋ,p,P,B5,71,pP,Level*,Up,Oblique (II),7
+5.131,9.2,방,pɑŋ,p,P,B5,71,은,ɯn,∅,p,B5,71,Pp,Level*,Level,Similar,0
+5.132,9.2,은,ɯn,∅,p,B5,71,작,tɕɑk,tɕ,p,B5,71,pp,Level*,Level,Similar,0
+5.133,9.2,작,tɕɑk,tɕ,p,B5,71,은,ɯn,∅,p,B5,71,pp,Level*,Level,Similar,0
+5.134,9.3,춤,tɕʰum,tɕʰ,A,B5,71,을,ɯl,∅,p,B5,71,Ap,Down*,Level,Oblique (I),0
+5.135,9.3,을,ɯl,∅,p,B5,71,추,tɕʰu,tɕʰ,A,B5,71,pA,Up*,Level,Oblique (I),0
+5.136,9.3,추,tɕʰu,tɕʰ,A,B5,71,곤,kon,k,P,B5,71,AP,Down,Level,Oblique (I),0
+5.137,9.3,곤,kon,k,P,B5,71,해,hɛ,h,p,E5,64,Pp,Level*,Down,Oblique (II),-7
+5.138,9.3,해,hɛ,h,p,E5,64,실,sil,s,p,E5,64,pp,Level*,Level,Similar,0
+5.139,9.3,실,sil,s,p,E5,64,컷,kʰʌt,kʰ,A,E5,64,pA,Up*,Level,Oblique (I),0
+5.140,9.3,컷,kʰʌt,kʰ,A,E5,64,어,ʌ,∅,p,B5,71,Ap,Down*,Up,Contrary,7
+5.141,9.3,어,ʌ,∅,p,B5,71,지,tɕi,tɕ,p,B5,71,pp,Level*,Level,Similar,0
+5.142,9.3,지,tɕi,tɕ,p,B5,71,러,lʌ,l,p,B5,71,pp,Level*,Level,Similar,0
+5.143,9.3,러,lʌ,l,p,B5,71,울,ul,∅,p,B5,71,pp,Level*,Level,Similar,0
+5.144,9.3,울,ul,∅,p,B5,71,만,mɑn,m,p,D6,74,pp,Level*,Up,Oblique (II),3
+5.145,9.3,만,mɑn,m,p,D6,74,큼,kʰɯm,kʰ,A,A5,69,pA,Up*,Down,Contrary,-5
+5.146,9.5,한,hɑn,h,p,E4,52,칸,kʰɑn,kʰ,A,E4,52,pA,Up*,Level,Oblique (I),0
+5.147,9.5,칸,kʰɑn,kʰ,A,E4,52,더,tʌ,t,P,A4,57,AP,Down,Up,Contrary,5
+5.148,9.5,더,tʌ,t,P,A4,57,채,tɕʰɛ,tɕʰ,A,G#4,56,PA,Up,Down,Contrary,-1
+5.149,9.5,채,tɕʰɛ,tɕʰ,A,G#4,56,우,u,∅,p,G#4,56,Ap,Down*,Level,Oblique (I),0
+5.150,9.5,우,u,∅,p,G#4,56,고,ko,k,P,G#4,56,pP,Level*,Level,Similar,0
+5.151,9.5,고,ko,k,P,G#4,56,있,it,∅,p,G#4,56,Pp,Level*,Level,Similar,0
+5.152,9.5,있,it,∅,p,G#4,56,어,ʌ,∅,p,E4,52,pp,Level*,Down,Oblique (II),-4
+5.153,9.5,어,ʌ,∅,p,E4,52,잘,tɕɑl,tɕ,p,E4,52,pp,Level*,Level,Similar,0
+5.154,9.6,잘,tɕɑl,tɕ,p,E4,52,봐,pwa,p,P,D4,50,pP,Level*,Down,Oblique (II),-2
+5.155,10.1,내,nɛ,n,p,A5,69,앞,ɑp,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.156,10.1,앞,ɑp,∅,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.157,10.1,에,ɛ,∅,p,A5,69,있,it,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.158,10.1,있,it,∅,p,A5,69,는,nɯn,n,p,A5,69,pp,Level*,Level,Similar,0
+5.159,10.1,는,nɯn,n,p,A5,69,너,nʌ,n,p,B5,71,pp,Level*,Up,Oblique (II),2
+5.160,10.1,너,nʌ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.161,10.1,를,lɯl,l,p,E5,64,그,kɯ,k,P,A5,69,pP,Level*,Up,Oblique (II),5
+5.162,10.2,그,kɯ,k,P,A5,69,눈,nun,n,p,A5,69,Pp,Level*,Level,Similar,0
+5.163,10.2,눈,nun,n,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.164,10.2,에,ɛ,∅,p,A5,69,비,pi,p,P,A5,69,pP,Level*,Level,Similar,0
+5.165,10.2,비,pi,p,P,A5,69,친,tɕʰin,tɕʰ,A,A5,69,PA,Up,Level,Oblique (I),0
+5.166,10.2,친,tɕʰin,tɕʰ,A,A5,69,나,nɑ,n,p,B5,71,Ap,Down*,Up,Contrary,2
+5.167,10.2,나,nɑ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.168,10.4,내,nɛ,n,p,A5,69,앞,ɑp,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.169,10.4,앞,ɑp,∅,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.170,10.4,에,ɛ,∅,p,A5,69,있,it,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.171,10.4,있,it,∅,p,A5,69,는,nɯn,n,p,A5,69,pp,Level*,Level,Similar,0
+5.172,10.4,는,nɯn,n,p,A5,69,너,nʌ,n,p,B5,71,pp,Level*,Up,Oblique (II),2
+5.173,10.4,너,nʌ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.174,10.4,를,lɯl,l,p,E5,64,그,kɯ,k,P,A5,69,pP,Level*,Up,Oblique (II),5
+5.175,10.5,그,kɯ,k,P,A5,69,눈,nun,n,p,A5,69,Pp,Level*,Level,Similar,0
+5.176,10.5,눈,nun,n,p,A5,69,에,ɛ,∅,p,A5,69,pp,Level*,Level,Similar,0
+5.177,10.5,에,ɛ,∅,p,A5,69,비,pi,p,P,A5,69,pP,Level*,Level,Similar,0
+5.178,10.5,비,pi,p,P,A5,69,친,tɕʰin,tɕʰ,A,A5,69,PA,Up,Level,Oblique (I),0
+5.179,10.5,친,tɕʰin,tɕʰ,A,A5,69,나,nɑ,n,p,B5,71,Ap,Down*,Up,Contrary,2
+5.180,10.5,나,nɑ,n,p,B5,71,를,lɯl,l,p,E5,64,pp,Level*,Down,Oblique (II),-7
+5.181,10.6,사,sɑ,s,p,E5,64,랑,lɑŋ,l,p,A5,69,pp,Level*,Up,Oblique (II),5
+5.182,10.6,랑,lɑŋ,l,p,A5,69,하,hɑ,h,p,A5,69,pp,Level*,Level,Similar,0
+5.183,10.6,하,hɑ,h,p,A5,69,게,kɛ,k,P,A5,69,pP,Level*,Level,Similar,0
+5.184,10.6,게,kɛ,k,P,A5,69,됐,twɛt,t,P,A5,69,PP,Level,Level,Similar,0
+5.185,10.6,됐,twɛt,t,P,A5,69,거,kʌ,k,P,B5,71,PP,Level,Up,Oblique (II),2
+5.186,10.6,거,kʌ,k,P,B5,71,든,tɯn,t,P,G#5,68,PP,Level,Down,Oblique (II),-3
+6.001,1.2,홀,hol,h,p,C#3,37,린,lin,l,p,B2,35,pp,Level*,Down,Oblique (II),-2
+6.002,1.2,린,lin,l,p,B2,35,채,tɕʰɛ,tɕʰ,A,C#3,37,pA,Up*,Up,Similar,2
+6.003,1.3,손,son,s,p,C#3,37,을,ɯl,∅,p,B2,35,pp,Level*,Down,Oblique (II),-2
+6.004,1.3,을,ɯl,∅,p,B2,35,뻗,p*ʌt,p*,T,C#3,37,pT,Up?,Up,Similar,2
+6.005,1.3,뻗,p*ʌt,p*,T,C#3,37,어,ʌ,∅,p,B2,35,Tp,Down?,Down,Similar,-2
+6.006,1.3,어,ʌ,∅,p,B2,35,위,wi,∅,p,C#3,37,pp,Level*,Up,Oblique (II),2
+6.007,1.4,위,wi,∅,p,C#3,37,험,hʌm,h,p,B2,35,pp,Level*,Down,Oblique (II),-2
+6.008,1.4,험,hʌm,h,p,B2,35,속,sok,s,p,C#3,37,pp,Level*,Up,Oblique (II),2
+6.009,1.4,속,sok,s,p,C#3,37,에,ɛ,∅,p,B2,35,pp,Level*,Down,Oblique (II),-2
+6.010,1.4,에,ɛ,∅,p,B2,35,깊,kip,k,P,C#3,37,pP,Level*,Up,Oblique (II),2
+6.011,1.4,깊,kip,k,P,C#3,37,이,i,∅,p,B2,35,Pp,Level*,Down,Oblique (II),-2
+6.012,1.4,이,i,∅,p,B2,35,빠,p*ɑ,p*,T,A2,33,pT,Up?,Down,Contrary,-2
+6.013,1.4,빠,p*ɑ,p*,T,A2,33,져,tɕjʌ,tɕ,p,B2,35,Tp,Down?,Up,Contrary,2
+6.014,1.4,져,tɕjʌ,tɕ,p,B2,35,가,kɑ,k,P,F#2,30,pP,Level*,Down,Oblique (II),-5
+6.015,1.7,널,nʌl,n,p,A2,33,망,mɑŋ,m,p,B2,35,pp,Level*,Up,Oblique (II),2
+6.016,1.7,망,mɑŋ,m,p,B2,35,치,tɕʰi,tɕʰ,A,C#3,37,pA,Up*,Up,Similar,2
+6.017,1.7,치,tɕʰi,tɕʰ,A,C#3,37,고,ko,k,P,B2,35,AP,Down,Down,Similar,-2
+6.018,1.7,고,ko,k,P,B2,35,서,sʌ,s,p,A2,33,Pp,Level*,Down,Oblique (II),-2
+6.019,2.1,단,tɑn,t,P,F#4,54,하,hɑ,h,p,G#4,56,Pp,Level*,Up,Oblique (II),2
+6.020,2.1,하,hɑ,h,p,G#4,56,나,nɑ,n,p,A4,57,pp,Level*,Up,Oblique (II),1
+6.021,2.1,나,nɑ,n,p,A4,57,를,lɯl,l,p,B4,59,pp,Level*,Up,Oblique (II),2
+6.022,2.1,를,lɯl,l,p,B4,59,주,tɕu,tɕ,p,C#5,61,pp,Level*,Up,Oblique (II),2
+6.023,2.1,주,tɕu,tɕ,p,C#5,61,는,nɯn,n,p,E5,64,pp,Level*,Up,Oblique (II),3
+6.024,2.1,는,nɯn,n,p,E5,64,척,tɕʰʌk,tɕʰ,A,F#5,66,pA,Up*,Up,Similar,2
+6.025,2.1,척,tɕʰʌk,tɕʰ,A,F#5,66,모,mo,m,p,G#5,68,Ap,Down*,Up,Contrary,2
+6.026,2.2,모,mo,m,p,G#5,68,든,tɯn,t,P,A5,69,pP,Level*,Up,Oblique (II),1
+6.027,2.2,든,tɯn,t,P,A5,69,걸,kʌl,k,P,B5,71,PP,Level,Up,Oblique (II),2
+6.028,2.2,걸,kʌl,k,P,B5,71,가,kɑ,k,P,C#6,73,PP,Level,Up,Oblique (II),2
+6.029,2.2,가,kɑ,k,P,C#6,73,져,tɕjʌ,tɕ,p,E6,76,Pp,Level*,Up,Oblique (II),3
+6.030,2.2,져,tɕjʌ,tɕ,p,E6,76,가,kɑ,k,P,C#6->B5,73,pP,Level*,Down,Oblique (II),-3
+6.031,2.2,가,kɑ,k,P,C#6,73,아,ɑ,∅,p,C#6,73,Pp,Level*,Level,Similar,0
+6.032,2.3,아,ɑ,∅,p,C#6,73,픈,pʰɯn,pʰ,A,C#6,73,pA,Up*,Level,Oblique (I),0
+6.033,2.3,픈,pʰɯn,pʰ,A,C#6,73,마,mɑ,m,p,A5,69,Ap,Down*,Down,Similar,-4
+6.034,2.3,마,mɑ,m,p,A5,69,음,ɯm,∅,p,A5,69,pp,Level*,Level,Similar,0
+6.035,2.3,음,ɯm,∅,p,A5,69,과,kwa,k,P,B5,71,pP,Level*,Up,Oblique (II),2
+6.036,2.3,과,kwa,k,P,B5,71,사,sɑ,s,p,F#5,66,Pp,Level*,Down,Oblique (II),-5
+6.037,2.3,사,sɑ,s,p,F#5,66,랑,lɑŋ,l,p,F#5,66,pp,Level*,Level,Similar,0
+6.038,2.3,랑,lɑŋ,l,p,F#5,66,을,ɯl,∅,p,A5,69,pp,Level*,Up,Oblique (II),3
+6.039,2.3,을,ɯl,∅,p,A5,69,헷,hɛt,h,p,E5,64,pp,Level*,Down,Oblique (II),-5
+6.040,2.4,헷,hɛt,h,p,E5,64,갈,kɑl,k,P,E5,64,pP,Level*,Level,Similar,0
+6.041,2.4,갈,kɑl,k,P,E5,64,려,ljʌ,l,p,F#5,66,Pp,Level*,Up,Oblique (II),2
+6.042,2.4,려,ljʌ,l,p,F#5,66,원,wʌn,∅,p,C#5,61,pp,Level*,Down,Oblique (II),-5
+6.043,2.4,원,wʌn,∅,p,C#5,61,하,hɑ,h,p,C#5,61,pp,Level*,Level,Similar,0
+6.044,2.4,하,hɑ,h,p,C#5,61,게,kɛ,k,P,E5,64,pP,Level*,Up,Oblique (II),3
+6.045,2.4,게,kɛ,k,P,E5,64,만,mɑn,m,p,B4,59,Pp,Level*,Down,Oblique (II),-5
+6.046,2.4,만,mɑn,m,p,B4,59,들,tɯl,t,P,B4,59,pP,Level*,Level,Similar,0
+6.047,2.4,들,tɯl,t,P,B4,59,어,ʌ,∅,p,C#5,61,Pp,Level*,Up,Oblique (II),2
+6.048,2.4,어,ʌ,∅,p,C#5,61,우,u,∅,p,A4,57,pp,Level*,Down,Oblique (II),-4
+6.049,2.5,우,u,∅,p,A4,57,리,li,l,p,A4,57,pp,Level*,Level,Similar,0
+6.050,2.5,리,li,l,p,A4,57,관,kwan,k,P,G#4,56,pP,Level*,Down,Oblique (II),-1
+6.051,2.5,관,kwan,k,P,G#4,56,계,kjɛ,k,P,F#4,54,PP,Level,Down,Oblique (II),-2
+6.052,2.5,계,kjɛ,k,P,F#4,54,는,nɯn,n,p,G#4,56,Pp,Level*,Up,Oblique (II),2
+6.053,2.5,는,nɯn,n,p,G#4,56,그,kɯ,k,P,F#4,54,pP,Level*,Down,Oblique (II),-2
+6.054,2.5,그,kɯ,k,P,F#4,54,렇,lʌt,l,p,G#4,56,Pp,Level*,Up,Oblique (II),2
+6.055,2.5,렇,lʌt,l,p,G#4,56,게,kɛ,k,P,F#4,54,pP,Level*,Down,Oblique (II),-2
+6.056,2.5,게,kɛ,k,P,F#4,54,됐,twɛt,t,P,G#4,56,PP,Level,Up,Oblique (II),2
+6.057,2.5,됐,twɛt,t,P,G#4,56,어,ʌ,∅,p,F#4,54,Pp,Level*,Down,Oblique (II),-2
+6.058,2.5,어,ʌ,∅,p,F#4,54,모,mo,m,p,G#4,56,pp,Level*,Up,Oblique (II),2
+6.059,2.6,모,mo,m,p,G#4,56,든,tɯn,t,P,F#4,54,pP,Level*,Down,Oblique (II),-2
+6.060,2.6,든,tɯn,t,P,F#4,54,건,kʌn,k,P,G#4,56,PP,Level,Up,Oblique (II),2
+6.061,2.6,건,kʌn,k,P,G#4,56,다,tɑ,t,P,F#4,54,PP,Level,Down,Oblique (II),-2
+6.062,2.6,다,tɑ,t,P,F#4,54,널,nʌl,n,p,G#4,56,Pp,Level*,Up,Oblique (II),2
+6.063,2.6,널,nʌl,n,p,G#4,56,위,wi,∅,p,F#4,54,pp,Level*,Down,Oblique (II),-2
+6.064,2.6,위,wi,∅,p,F#4,54,해,hɛ,h,p,G#4,56,pp,Level*,Up,Oblique (II),2
+6.065,2.6,해,hɛ,h,p,G#4,56,서,sʌ,s,p,F#4,54,pp,Level*,Down,Oblique (II),-2
+6.067,5.2,내,nɛ,n,p,A2,33,말,mɑl,m,p,A2,33,pp,Level*,Level,Similar,0
+6.068,5.2,말,mɑl,m,p,A2,33,위,wi,∅,p,E3,40,pp,Level*,Up,Oblique (II),7
+6.069,5.2,위,wi,∅,p,E3,40,에,ɛ,∅,p,D3,38,pp,Level*,Down,Oblique (II),-2
+6.070,5.2,에,ɛ,∅,p,D3,38,놀,nol,n,p,C#3,37,pp,Level*,Down,Oblique (II),-1
+6.071,5.2,놀,nol,n,p,C#3,37,아,ɑ,∅,p,D3,38,pp,Level*,Up,Oblique (II),1
+6.072,5.2,아,ɑ,∅,p,D3,38,나,nɑ,n,p,C#3,37,pp,Level*,Down,Oblique (II),-1
+6.073,5.2,나,nɑ,n,p,C#3,37,누,nu,n,p,C#3,37,pp,Level*,Level,Similar,0
+6.074,5.3,누,nu,n,p,C#3,37,가,kɑ,k,P,C#3,37,pP,Level*,Level,Similar,0
+6.075,5.3,가,kɑ,k,P,C#3,37,날,nɑl,n,p,C#3,37,Pp,Level*,Level,Similar,0
+6.076,5.3,날,nɑl,n,p,C#3,37,벌,pʌl,p,P,C#3,37,pP,Level*,Level,Similar,0
+6.077,5.3,벌,pʌl,p,P,C#3,37,할,hɑl,h,p,C#3,37,Pp,Level*,Level,Similar,0
+6.078,5.3,할,hɑl,h,p,C#3,37,까,k*ɑ,k*,T,C#3,37,pT,Up?,Level,Oblique (I),0
+6.079,5.5,눈,nun,n,p,B2,35,치,tɕʰi,tɕʰ,A,B2,35,pA,Up*,Level,Oblique (I),0
+6.080,5.5,치,tɕʰi,tɕʰ,A,B2,35,챈,tɕʰɛn,tɕʰ,A,B2,35,AA,Level,Level,Similar,0
+6.081,5.5,챈,tɕʰɛn,tɕʰ,A,B2,35,순,sun,s,p,B2,35,Ap,Down*,Level,Oblique (I),0
+6.082,5.5,순,sun,s,p,B2,35,간,kɑn,k,P,B2,35,pP,Level*,Level,Similar,0
+6.083,5.5,간,kɑn,k,P,B2,35,난,nɑn,n,p,F#2,30,Pp,Level*,Down,Oblique (II),-5
+6.090,6.5,포,pʰo,pʰ,A,C#3,37,기,ki,k,P,C#3,37,AP,Down,Level,Oblique (I),0
+6.091,6.5,기,ki,k,P,C#3,37,해,hɛ,h,p,C#3,37,Pp,Level*,Level,Similar,0
+6.092,6.5,해,hɛ,h,p,C#3,37,넌,nʌn,n,p,C#3,37,pp,Level*,Level,Similar,0
+6.093,6.5,넌,nʌn,n,p,C#3,37,내,nɛ,n,p,C#3,37,pp,Level*,Level,Similar,0
+6.094,6.5,내,nɛ,n,p,C#3,37,안,ɑn,∅,p,F#3,42,pp,Level*,Up,Oblique (II),5
+6.095,6.5,안,ɑn,∅,p,F#3,42,에,ɛ,∅,p,C#3,37,pp,Level*,Down,Oblique (II),-5
+6.096,6.5,에,ɛ,∅,p,C#3,37,갇,kɑt,k,P,C#4,49,pP,Level*,Up,Oblique (II),12
+6.097,6.5,갇,kɑt,k,P,C#4,49,힌,hin,h,p,A3,45,Pp,Level*,Down,Oblique (II),-4
+6.098,6.5,힌,hin,h,p,A3,45,걸,kʌl,k,P,G#3,44,pP,Level*,Down,Oblique (II),-1
+6.099,9.1,너,nʌ,n,p,G#4,56,를,lɯl,l,p,F#4,54,pp,Level*,Down,Oblique (II),-2
+6.100,9.1,를,lɯl,l,p,F#4,54,더,tʌ,t,P,G#4,56,pP,Level*,Up,Oblique (II),2
+6.101,9.1,더,tʌ,t,P,G#4,56,잃,il,∅,p,F#4,54,Pp,Level*,Down,Oblique (II),-2
+6.102,9.1,잃,il,∅,p,F#4,54,어,ʌ,∅,p,E4,52,pp,Level*,Down,Oblique (II),-2
+6.103,9.1,어,ʌ,∅,p,E4,52,가,kɑ,k,P,F#4,54,pP,Level*,Up,Oblique (II),2
+6.104,9.1,가,kɑ,k,P,F#4,54,길,kil,k,P,E4,52,PP,Level,Down,Oblique (II),-2
+6.105,9.1,길,kil,k,P,E4,52,원,wʌn,∅,p,C#4,49,Pp,Level*,Down,Oblique (II),-3
+6.107,9.1,원,wʌn,∅,p,C#4,49,해,hɛ,h,p,C#4,49,pp,Level*,Level,Similar,0
+6.108,9.1,해,hɛ,h,p,C#4,49,우,u,∅,p,A4,57,pp,Level*,Up,Oblique (II),8
+6.109,9.2,우,u,∅,p,A4,57,리,li,l,p,G#4,56,pp,Level*,Down,Oblique (II),-1
+6.110,9.2,리,li,l,p,G#4,56,의,ɰi,∅,p,F#4,54,pp,Level*,Down,Oblique (II),-2
+6.111,9.2,의,ɰi,∅,p,F#4,54,사,sɑ,s,p,G#4,56,pp,Level*,Up,Oblique (II),2
+6.112,9.2,사,sɑ,s,p,G#4,56,랑,lɑŋ,l,p,F#4,54,pp,Level*,Down,Oblique (II),-2
+6.113,9.2,랑,lɑŋ,l,p,F#4,54,은,ɯn,∅,p,E4,52,pp,Level*,Down,Oblique (II),-2
+6.114,9.2,은,ɯn,∅,p,E4,52,그,kɯ,k,P,C#4,49,pP,Level*,Down,Oblique (II),-3
+6.115,9.2,그,kɯ,k,P,C#4,49,게,kɛ,k,P,C#4,49,PP,Level,Level,Similar,0
+6.116,9.2,게,kɛ,k,P,C#4,49,편,pʰjʌn,pʰ,A,F#4,54,PA,Up,Up,Similar,5
+6.117,9.2,편,pʰjʌn,pʰ,A,F#4,54,해,hɛ,h,p,F#4,54,Ap,Down*,Level,Oblique (I),0
+6.118,9.2,해,hɛ,h,p,F#4,54,그,kɯ,k,P,A3,45,pP,Level*,Down,Oblique (II),-9
+6.119,9.3,그,kɯ,k,P,A3,45,저,tɕʌ,tɕ,p,B3,47,Pp,Level*,Up,Oblique (II),2
+6.120,9.3,저,tɕʌ,tɕ,p,B3,47,남,nɑm,n,p,C#4,49,pp,Level*,Up,Oblique (II),2
+6.121,9.3,남,nɑm,n,p,C#4,49,들,tɯl,t,P,B3,47,pP,Level*,Down,Oblique (II),-2
+6.122,9.3,들,tɯl,t,P,B3,47,과,kwa,k,P,A3,45,PP,Level,Down,Oblique (II),-2
+6.123,9.3,과,kwa,k,P,A3,45,다,tɑ,t,P,C#4,49,PP,Level,Up,Oblique (II),4
+6.124,9.3,다,tɑ,t,P,C#4,49,른,lɯn,l,p,B3,47,Pp,Level*,Down,Oblique (II),-2
+6.125,9.3,른,lɯn,l,p,B3,47,내,nɛ,n,p,A3,45,pp,Level*,Down,Oblique (II),-2
+6.126,9.3,내,nɛ,n,p,A3,45,방,pɑŋ,p,P,B3,47,pP,Level*,Up,Oblique (II),2
+6.127,9.3,방,pɑŋ,p,P,B3,47,식,sik,s,p,B3,47,Pp,Level*,Level,Similar,0
+6.128,9.3,식,sik,s,p,B3,47,아,ɑ,∅,p,A3,45,pp,Level*,Down,Oblique (II),-2
+6.129,9.4,아,ɑ,∅,p,A3,45,플,pʰɯl,pʰ,A,C#4,49,pA,Up*,Up,Similar,4
+6.130,9.4,플,pʰɯl,pʰ,A,C#4,49,수,su,s,p,B3,47,Ap,Down*,Down,Similar,-2
+6.131,9.4,수,su,s,p,B3,47,록,lok,l,p,A3,45,pp,Level*,Down,Oblique (II),-2
+6.132,9.4,록,lok,l,p,A3,45,달,tɑl,t,P,C#4,49,pP,Level*,Up,Oblique (II),4
+6.133,9.4,달,tɑl,t,P,C#4,49,콤,kʰom,kʰ,A,B3,47,PA,Up,Down,Contrary,-2
+6.134,9.4,콤,kʰom,kʰ,A,B3,47,히,hi,h,p,A3,45,Ap,Down*,Down,Similar,-2
+6.135,9.4,히,hi,h,p,A3,45,남,nɑm,n,p,B3,47,pp,Level*,Up,Oblique (II),2
+6.136,9.4,남,nɑm,n,p,B3,47,지,tɕi,tɕ,p,B3,47,pp,Level*,Level,Similar,0
+6.137,11.2,내,nɛ,n,p,A2,33,말,mɑl,m,p,B3,47,pp,Level*,Up,Oblique (II),14
+6.138,11.2,말,mɑl,m,p,A2,33,위,wi,∅,p,E3,40,pp,Level*,Up,Oblique (II),7
+6.139,11.2,위,wi,∅,p,E3,40,에,ɛ,∅,p,D3,38,pp,Level*,Down,Oblique (II),-2
+6.140,11.2,에,ɛ,∅,p,D3,38,놀,nol,n,p,C#3,37,pp,Level*,Down,Oblique (II),-1
+6.141,11.2,놀,nol,n,p,C#3,37,아,ɑ,∅,p,D3,38,pp,Level*,Up,Oblique (II),1
+6.142,11.2,아,ɑ,∅,p,D3,38,나,nɑ,n,p,C#3,37,pp,Level*,Down,Oblique (II),-1
+6.143,11.2,나,nɑ,n,p,C#3,37,누,nu,n,p,C#3,37,pp,Level*,Level,Similar,0
+6.144,11.3,누,nu,n,p,C#3,37,가,kɑ,k,P,C#3,37,pP,Level*,Level,Similar,0
+6.145,11.3,가,kɑ,k,P,C#3,37,날,nɑl,n,p,C#3,37,Pp,Level*,Level,Similar,0
+6.146,11.3,날,nɑl,n,p,C#3,37,벌,pʌl,p,P,C#3,37,pP,Level*,Level,Similar,0
+6.147,11.3,벌,pʌl,p,P,C#3,37,할,hɑl,h,p,C#3,37,Pp,Level*,Level,Similar,0
+6.148,11.3,할,hɑl,h,p,C#3,37,까,k*ɑ,k*,T,C#3,37,pT,Up?,Level,Oblique (I),0
+6.149,11.5,눈,nun,n,p,B2,35,치,tɕʰi,tɕʰ,A,B2,35,pA,Up*,Level,Oblique (I),0
+6.150,11.5,치,tɕʰi,tɕʰ,A,B2,35,챈,tɕʰɛn,tɕʰ,A,B2,35,AA,Level,Level,Similar,0
+6.151,11.5,챈,tɕʰɛn,tɕʰ,A,B2,35,순,sun,s,p,B2,35,Ap,Down*,Level,Oblique (I),0
+6.152,11.5,순,sun,s,p,B2,35,간,kɑn,k,P,B2,35,pP,Level*,Level,Similar,0
+6.153,11.5,간,kɑn,k,P,B2,35,난,nɑn,n,p,F#2,30,Pp,Level*,Down,Oblique (II),-5
+7.001,3.2,뻔,p*ʌn,p*,T,C#5,61,한,hɑn,h,p,C#5,61,Tp,Down?,Level,Oblique (I),0
+7.002,3.2,한,hɑn,h,p,C#5,61,규,kju,k,P,D#5,63,pP,Level*,Up,Oblique (II),2
+7.003,3.2,규,kju,k,P,D#5,63,칙,tɕʰik,tɕʰ,A,D#5,63,PA,Up,Level,Oblique (I),0
+7.004,3.2,칙,tɕʰik,tɕʰ,A,D#5,63,들,tɯl,t,P,F5,65,AP,Down,Up,Contrary,2
+7.005,3.2,들,tɯl,t,P,F5,65,은,ɯn,∅,p,F5,65,Pp,Level*,Level,Similar,0
+7.006,3.2,은,ɯn,∅,p,F5,65,빗,pit,p,P,G#5,68,pP,Level*,Up,Oblique (II),3
+7.007,3.2,빗,pit,p,P,G#5,68,겨,kjʌ,k,P,G5,67,PP,Level,Down,Oblique (II),-1
+7.008,3.2,겨,kjʌ,k,P,G5,67,나,nɑ,n,p,F5,65,Pp,Level*,Down,Oblique (II),-2
+7.009,3.2,나,nɑ,n,p,F5,65,가,kɑ,k,P,D#5,63,pP,Level*,Down,Oblique (II),-2
+7.010,3.3,정,tɕʌŋ,tɕ,p,C#5,61,해,hɛ,h,p,C#5,61,pp,Level*,Level,Similar,0
+7.011,3.3,해,hɛ,h,p,C#5,61,준,tɕun,tɕ,p,D#5,63,pp,Level*,Up,Oblique (II),2
+7.012,3.3,준,tɕun,tɕ,p,D#5,63,틀,tʰɯl,tʰ,A,D#5,63,pA,Up*,Level,Oblique (I),0
+7.013,3.3,틀,tʰɯl,tʰ,A,D#5,63,다,tɑ,t,P,F5,65,AP,Down,Up,Contrary,2
+7.014,3.3,다,tɑ,t,P,F5,65,깨,k*ɛ,k*,T,C#5,61,PT,Up?,Down,Contrary,-4
+7.015,3.3,깨,k*ɛ,k*,T,C#5,61,트,tʰɯ,tʰ,A,C#5,61,TA,Up???,Level,Oblique (I),0
+7.016,3.3,트,tʰɯ,tʰ,A,C#5,61,려,ljʌ,l,p,D#5,63,Ap,Down*,Up,Contrary,2
+7.017,3.3,려,ljʌ,l,p,D#5,63,봐,pwa,p,P,D#5,63,pP,Level*,Level,Similar,0
+7.018,3.3,봐,pwa,p,P,D#5,63,봐,pwa,p,P,F5,65,PP,Level,Up,Oblique (II),2
+7.019,4.2,미,mi,m,p,A#5,70,쳐,tɕʰjʌ,tɕʰ,A,G#5,68,pA,Up*,Down,Contrary,-2
+7.020,4.2,쳐,tɕʰjʌ,tɕʰ,A,G#5,68,가,kɑ,k,P,G5,67,AP,Down,Down,Similar,-1
+7.021,7.3,원,wʌn,∅,p,D#5,63,했,hɛt,h,p,C#5,61,pp,Level*,Down,Oblique (II),-2
+7.022,7.3,했,hɛt,h,p,C#5,61,던,tʌn,t,P,D#5,63,pP,Level*,Up,Oblique (II),2
+7.023,7.3,던,tʌn,t,P,D#5,63,모,mo,m,p,D#5,63,Pp,Level*,Level,Similar,0
+7.024,7.3,모,mo,m,p,D#5,63,든,tɯn,t,P,C#5,61,pP,Level*,Down,Oblique (II),-2
+7.025,7.3,든,tɯn,t,P,C#5,61,걸,kʌl,k,P,D#5,63,PP,Level,Up,Oblique (II),2
+7.026,7.3,걸,kʌl,k,P,D#5,63,새,sɛ,s,p,D#5,63,Pp,Level*,Level,Similar,0
+7.027,7.3,새,sɛ,s,p,D#5,63,로,lo,l,p,C#5,61,pp,Level*,Down,Oblique (II),-2
+7.028,7.3,로,lo,l,p,C#5,61,운,un,∅,p,D#5,63,pp,Level*,Up,Oblique (II),2
+7.029,7.3,운,un,∅,p,D#5,63,널,nʌl,n,p,C#5,61,pp,Level*,Down,Oblique (II),-2
+7.030,7.3,널,nʌl,n,p,C#5,61,꽃,k*ot,k*,T,D#5,63,pT,Up?,Up,Similar,2
+7.031,7.3,꽃,k*ot,k*,T,D#5,63,피,pʰi,pʰ,A,F5,65,TA,Up???,Up,Similar,2
+7.032,7.3,피,pʰi,pʰ,A,F5,65,워,wʌ,∅,p,D#5,63,Ap,Down*,Down,Similar,-2
+7.033,7.3,워,wʌ,∅,p,D#5,63,봐,pwa,p,P,C#5,61,pP,Level*,Down,Oblique (II),-2
+8.001,1.4,발,pɑl,p,P,C5,60,박,pɑk,p,P,A#4,58,PP,Level,Down,Oblique (II),-2
+8.002,1.4,박,pɑk,p,P,A#4,58,자,tɕɑ,tɕ,p,G#4,56,Pp,Level*,Down,Oblique (II),-2
+8.003,1.4,자,tɕɑ,tɕ,p,G#4,56,를,lɯl,l,p,F4,53,pp,Level*,Down,Oblique (II),-3
+8.004,1.4,를,lɯl,l,p,F4,53,맞,mɑt,m,p,G#4,56,pp,Level*,Up,Oblique (II),3
+8.005,1.4,맞,mɑt,m,p,G#4,56,추,tɕʰu,tɕʰ,A,G#4,56,pA,Up*,Level,Oblique (I),0
+8.006,1.4,추,tɕʰu,tɕʰ,A,G#4,56,고,ko,k,P,C5,60,AP,Down,Up,Contrary,4
+8.007,2.2,너,nʌ,n,p,A#4,58,와,wa,∅,p,A#4,58,pp,Level*,Level,Similar,0
+8.008,2.2,와,wa,∅,p,A#4,58,맞,mɑt,m,p,A#4,58,pp,Level*,Level,Similar,0
+8.009,2.2,맞,mɑt,m,p,A#4,58,추,tɕʰu,tɕʰ,A,A#4,58,pA,Up*,Level,Oblique (I),0
+8.010,2.2,추,tɕʰu,tɕʰ,A,A#4,58,는,nɯn,n,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+8.011,2.2,는,nɯn,n,p,A#4,58,눈,nun,n,p,G#4,56,pp,Level*,Down,Oblique (II),-2
+8.012,2.4,너,nʌ,n,p,A#4,58,와,wa,∅,p,A#4,58,pp,Level*,Level,Similar,0
+8.013,2.4,와,wa,∅,p,A#4,58,맞,mɑt,m,p,A#4,58,pp,Level*,Level,Similar,0
+8.014,2.4,맞,mɑt,m,p,A#4,58,추,tɕʰu,tɕʰ,A,A#4,58,pA,Up*,Level,Oblique (I),0
+8.015,2.4,추,tɕʰu,tɕʰ,A,A#4,58,는,nɯn,n,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+8.016,2.4,는,nɯn,n,p,A#4,58,춤,tɕʰum,tɕʰ,A,G#4,56,pA,Up*,Down,Contrary,-2
+8.017,3.2,너,nʌ,n,p,F#4,54,와,wa,∅,p,F#4,54,pp,Level*,Level,Similar,0
+8.018,3.2,와,wa,∅,p,F#4,54,맞,mɑt,m,p,F#4,54,pp,Level*,Level,Similar,0
+8.019,3.2,맞,mɑt,m,p,F#4,54,추,tɕʰu,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+8.020,3.2,추,tɕʰu,tɕʰ,A,F#4,54,는,nɯn,n,p,G4,55,Ap,Down*,Up,Contrary,1
+8.021,3.2,는,nɯn,n,p,G4,55,눈,nun,n,p,G#4,56,pp,Level*,Up,Oblique (II),1
+8.022,3.4,너,nʌ,n,p,F#4,54,와,wa,∅,p,F#4,54,pp,Level*,Level,Similar,0
+8.023,3.4,와,wa,∅,p,F#4,54,맞,mɑt,m,p,F#4,54,pp,Level*,Level,Similar,0
+8.024,3.4,맞,mɑt,m,p,F#4,54,추,tɕʰu,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+8.025,3.4,추,tɕʰu,tɕʰ,A,F#4,54,는,nɯn,n,p,G4,55,Ap,Down*,Up,Contrary,1
+8.026,3.4,는,nɯn,n,p,G4,55,춤,tɕʰum,tɕʰ,A,G#4,56,pA,Up*,Up,Similar,1
+8.027,5.2,가,kɑ,k,P,D#4,51,볍,pjʌp,p,P,D#4,51,PP,Level,Level,Similar,0
+8.028,5.2,볍,pjʌp,p,P,D#4,51,게,kɛ,k,P,F4,53,PP,Level,Up,Oblique (II),2
+8.029,5.2,게,kɛ,k,P,F4,53,툭,tʰuk,tʰ,A,F#4,54,PA,Up,Up,Similar,1
+8.030,5.2,툭,tʰuk,tʰ,A,F#4,54,어,ʌ,∅,p,F#4,54,Ap,Down*,Level,Oblique (I),0
+8.031,5.3,어,ʌ,∅,p,F#4,54,깨,k*ɛ,k*,T,F#4,54,pT,Up?,Level,Oblique (I),0
+8.032,5.3,깨,k*ɛ,k*,T,F#4,54,에,ɛ,∅,p,F4,53,Tp,Down?,Down,Similar,-1
+8.033,5.3,에,ɛ,∅,p,F4,53,메,mɛ,m,p,F#4,54,pp,Level*,Up,Oblique (II),1
+8.034,5.3,메,mɛ,m,p,F#4,54,고,ko,k,P,F4,53,pP,Level*,Down,Oblique (II),-1
+8.035,5.3,고,ko,k,P,F4,53,시,si,s,p,D#4,51,Pp,Level*,Down,Oblique (II),-2
+8.036,5.3,시,si,s,p,D#4,51,작,tɕɑk,tɕ,p,D#4,51,pp,Level*,Level,Similar,0
+8.037,5.3,작,tɕɑk,tɕ,p,D#4,51,해,hɛ,h,p,D4,50,pp,Level*,Down,Oblique (II),-1
+8.038,5.3,해,hɛ,h,p,D4,50,봐,pwa,p,P,D#4->C4,51,pP,Level*,Up,Oblique (II),1
+8.039,5.3,봐,pwa,p,P,C4,48,불,pul,p,P,C#5,61,PP,Level,Up,Oblique (II),13
+8.040,5.4,불,pul,p,P,C#5,61,타,tʰɑ,tʰ,A,C#5,61,PA,Up,Level,Oblique (I),0
+8.041,5.4,타,tʰɑ,tʰ,A,C#5,61,오,o,∅,p,B4,59,Ap,Down*,Down,Similar,-2
+8.042,5.4,오,o,∅,p,B4,59,를,lɯl,l,p,C#5,61,pp,Level*,Up,Oblique (II),2
+8.043,5.5,외,wɛ,∅,p,C#5,61,치,tɕʰi,tɕʰ,A,B4,59,pA,Up*,Down,Contrary,-2
+8.044,5.5,치,tɕʰi,tɕʰ,A,B4,59,는,nɯn,n,p,C#5,61,Ap,Down*,Up,Contrary,2
+8.045,5.5,는,nɯn,n,p,C#5,61,순,sun,s,p,B4,59,pp,Level*,Down,Oblique (II),-2
+8.046,5.5,순,sun,s,p,B4,59,간,kɑn,k,P,C#5,61,pP,Level*,Up,Oblique (II),2
+8.047,6.2,너,nʌ,n,p,A#4,58,와,wa,∅,p,A#4,58,pp,Level*,Level,Similar,0
+8.048,6.2,와,wa,∅,p,A#4,58,맞,mɑt,m,p,A#4,58,pp,Level*,Level,Similar,0
+8.049,6.2,맞,mɑt,m,p,A#4,58,추,tɕʰu,tɕʰ,A,A#4,58,pA,Up*,Level,Oblique (I),0
+8.050,6.2,추,tɕʰu,tɕʰ,A,A#4,58,는,nɯn,n,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+8.051,6.2,는,nɯn,n,p,A#4,58,눈,nun,n,p,G#4,56,pp,Level*,Down,Oblique (II),-2
+8.052,6.4,너,nʌ,n,p,A#4,58,와,wa,∅,p,A#4,58,pp,Level*,Level,Similar,0
+8.053,6.4,와,wa,∅,p,A#4,58,맞,mɑt,m,p,A#4,58,pp,Level*,Level,Similar,0
+8.054,6.4,맞,mɑt,m,p,A#4,58,추,tɕʰu,tɕʰ,A,A#4,58,pA,Up*,Level,Oblique (I),0
+8.055,6.4,추,tɕʰu,tɕʰ,A,A#4,58,는,nɯn,n,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+8.056,6.4,는,nɯn,n,p,A#4,58,춤,tɕʰum,tɕʰ,A,G#4,56,pA,Up*,Down,Contrary,-2
+8.057,7.2,너,nʌ,n,p,F#4,54,와,wa,∅,p,F#4,54,pp,Level*,Level,Similar,0
+8.058,7.2,와,wa,∅,p,F#4,54,맞,mɑt,m,p,F#4,54,pp,Level*,Level,Similar,0
+8.059,7.2,맞,mɑt,m,p,F#4,54,추,tɕʰu,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+8.060,7.2,추,tɕʰu,tɕʰ,A,F#4,54,는,nɯn,n,p,G4,55,Ap,Down*,Up,Contrary,1
+8.061,7.2,는,nɯn,n,p,G4,55,눈,nun,n,p,G#4,56,pp,Level*,Up,Oblique (II),1
+8.062,7.4,너,nʌ,n,p,F#4,54,와,wa,∅,p,F#4,54,pp,Level*,Level,Similar,0
+8.063,7.4,와,wa,∅,p,F#4,54,맞,mɑt,m,p,F#4,54,pp,Level*,Level,Similar,0
+8.064,7.4,맞,mɑt,m,p,F#4,54,추,tɕʰu,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+8.065,7.4,추,tɕʰu,tɕʰ,A,F#4,54,는,nɯn,n,p,G4,55,Ap,Down*,Up,Contrary,1
+8.066,7.4,는,nɯn,n,p,G4,55,춤,tɕʰum,tɕʰ,A,G#4,56,pA,Up*,Up,Similar,1
+8.067,9.2,너,nʌ,n,p,A#4,58,와,wa,∅,p,A#4,58,pp,Level*,Level,Similar,0
+8.068,9.2,와,wa,∅,p,A#4,58,맞,mɑt,m,p,A#4,58,pp,Level*,Level,Similar,0
+8.069,9.2,맞,mɑt,m,p,A#4,58,추,tɕʰu,tɕʰ,A,A#4,58,pA,Up*,Level,Oblique (I),0
+8.070,9.2,추,tɕʰu,tɕʰ,A,A#4,58,는,nɯn,n,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+8.071,9.2,는,nɯn,n,p,A#4,58,눈,nun,n,p,G#4,56,pp,Level*,Down,Oblique (II),-2
+8.072,9.4,너,nʌ,n,p,A#4,58,와,wa,∅,p,A#4,58,pp,Level*,Level,Similar,0
+8.073,9.4,와,wa,∅,p,A#4,58,맞,mɑt,m,p,A#4,58,pp,Level*,Level,Similar,0
+8.074,9.4,맞,mɑt,m,p,A#4,58,추,tɕʰu,tɕʰ,A,A#4,58,pA,Up*,Level,Oblique (I),0
+8.075,9.4,추,tɕʰu,tɕʰ,A,A#4,58,는,nɯn,n,p,A#4,58,Ap,Down*,Level,Oblique (I),0
+8.076,9.4,는,nɯn,n,p,A#4,58,춤,tɕʰum,tɕʰ,A,G#4,56,pA,Up*,Down,Contrary,-2
+8.077,10.2,너,nʌ,n,p,F#4,54,와,wa,∅,p,F#4,54,pp,Level*,Level,Similar,0
+8.078,10.2,와,wa,∅,p,F#4,54,맞,mɑt,m,p,F#4,54,pp,Level*,Level,Similar,0
+8.079,10.2,맞,mɑt,m,p,F#4,54,추,tɕʰu,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+8.080,10.2,추,tɕʰu,tɕʰ,A,F#4,54,는,nɯn,n,p,G4,55,Ap,Down*,Up,Contrary,1
+8.081,10.2,는,nɯn,n,p,G4,55,눈,nun,n,p,G#4,56,pp,Level*,Up,Oblique (II),1
+8.082,10.4,너,nʌ,n,p,F#4,54,와,wa,∅,p,F#4,54,pp,Level*,Level,Similar,0
+8.083,10.4,와,wa,∅,p,F#4,54,맞,mɑt,m,p,F#4,54,pp,Level*,Level,Similar,0
+8.084,10.4,맞,mɑt,m,p,F#4,54,추,tɕʰu,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+8.085,10.4,추,tɕʰu,tɕʰ,A,F#4,54,는,nɯn,n,p,G4,55,Ap,Down*,Up,Contrary,1
+8.086,10.4,는,nɯn,n,p,G4,55,춤,tɕʰum,tɕʰ,A,G#4,56,pA,Up*,Up,Similar,1
+9.001,3.3,틀,tʰɯl,tʰ,A,D4,50,림,lim,l,p,E4,52,Ap,Down*,Up,Contrary,2
+9.002,3.3,림,lim,l,p,E4,52,없,ʌp,∅,p,F#4,54,pp,Level*,Up,Oblique (II),2
+9.003,3.3,없,ʌp,∅,p,F#4,54,는,nɯn,n,p,F#4,54,pp,Level*,Level,Similar,0
+9.004,3.3,는,nɯn,n,p,F#4,54,원,wʌn,∅,p,F#4,54,pp,Level*,Level,Similar,0
+9.005,3.3,원,wʌn,∅,p,F#4,54,칙,tɕʰik,tɕʰ,A,F#4,54,pA,Up*,Level,Oblique (I),0
+9.006,3.3,칙,tɕʰik,tɕʰ,A,F#4,54,실,sil,s,p,D4,50,Ap,Down*,Down,Similar,-4
+9.007,3.4,실,sil,s,p,D4,50,수,su,s,p,E4,52,pp,Level*,Up,Oblique (II),2
+9.008,3.4,수,su,s,p,E4,52,하,hɑ,h,p,F#4,54,pp,Level*,Up,Oblique (II),2
+9.009,3.4,하,hɑ,h,p,F#4,54,면,mjʌn,m,p,F#4,54,pp,Level*,Level,Similar,0
+9.010,3.4,면,mjʌn,m,p,F#4,54,안,ɑn,∅,p,F#4,54,pp,Level*,Level,Similar,0
+9.011,3.4,안,ɑn,∅,p,F#4,54,돼,twɛ,t,P,F#4,54,pP,Level*,Level,Similar,0
+9.012,4.3,차,tɕʰɑ,tɕʰ,A,G5,67,곡,kok,k,P,F#5,66,AP,Down,Down,Similar,-1
+9.013,4.3,곡,kok,k,P,F#5,66,히,hi,h,p,B4,59,Pp,Level*,Down,Oblique (II),-7
+9.014,4.3,히,hi,h,p,B4,59,쌓,s*ɑt,s*,t,B4,59,pt,Up?,Level,Oblique (I),0
+9.015,4.3,쌓,s*ɑt,s*,t,B4,59,인,in,∅,p,A4,57,tp,Down?,Down,Similar,-2
+9.016,4.3,인,in,∅,p,A4,57,너,nʌ,n,p,B4,59,pp,Level*,Up,Oblique (II),2
+9.017,4.3,너,nʌ,n,p,B4,59,의,ɰi,∅,p,A4,57,pp,Level*,Down,Oblique (II),-2
+9.018,5.1,너,nʌ,n,p,B4,59,란,lɑn,l,p,D5,62,pp,Level*,Up,Oblique (II),3
+9.019,5.1,란,lɑn,l,p,D5,62,아,ɑ,∅,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.020,5.1,아,ɑ,∅,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+9.021,5.1,이,i,∅,p,E5,64,너,nʌ,n,p,E5,64,pp,Level*,Level,Similar,0
+9.022,5.1,너,nʌ,n,p,E5,64,만,mɑn,m,p,D5,62,pp,Level*,Down,Oblique (II),-2
+9.023,5.1,만,mɑn,m,p,D5,62,의,ɰi,∅,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.024,5.1,의,ɰi,∅,p,E5,64,루,lu,l,p,F#5,66,pp,Level*,Up,Oblique (II),2
+9.025,5.1,루,lu,l,p,F#5,66,틴,tʰin,tʰ,A,D5,62,pA,Up*,Down,Contrary,-4
+9.026,5.1,틴,tʰin,tʰ,A,D5,62,그,kɯ,k,P,E5,64,AP,Down,Up,Contrary,2
+9.027,5.2,그,kɯ,k,P,E5,64,특,tʰɯk,tʰ,A,E5,64,PA,Up,Level,Oblique (I),0
+9.028,5.2,특,tʰɯk,tʰ,A,E5,64,별,pjʌl,p,P,E5,64,AP,Down,Level,Oblique (I),0
+9.029,5.2,별,pjʌl,p,P,E5,64,함,hɑm,h,p,F#5,66,Pp,Level*,Up,Oblique (II),2
+9.030,5.2,함,hɑm,h,p,F#5,66,느,nɯ,n,p,B4,59,pp,Level*,Down,Oblique (II),-7
+9.031,5.3,느,nɯ,n,p,B4,59,낀,k*in,k*,T,D5,62,pT,Up?,Up,Similar,3
+9.032,5.3,낀,k*in,k*,T,D5,62,대,tɛ,t,P,E5,64,TP,Down?,Up,Contrary,2
+9.033,5.3,대,tɛ,t,P,E5,64,로,lo,l,p,D5,62,Pp,Level*,Down,Oblique (II),-2
+9.034,5.3,로,lo,l,p,D5,62,널,nʌl,n,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.035,5.3,널,nʌl,n,p,E5,64,풀,pʰul,pʰ,A,D5,62,pA,Up*,Down,Contrary,-2
+9.036,5.3,풀,pʰul,pʰ,A,D5,62,어,ʌ,∅,p,E5,64,Ap,Down*,Up,Contrary,2
+9.037,5.3,어,ʌ,∅,p,E5,64,볼,pol,p,P,F#5,66,pP,Level*,Up,Oblique (II),2
+9.038,5.3,볼,pol,p,P,F#5,66,게,kɛ,k,P,D5,62,PP,Level,Down,Oblique (II),-4
+9.039,10.5,감,kɑm,k,P,D5,62,동,toŋ,t,P,D5,62,PP,Level,Level,Similar,0
+9.040,10.5,동,toŋ,t,P,D5,62,시,si,s,p,E5,64,Pp,Level*,Up,Oblique (II),2
+9.041,10.5,시,si,s,p,E5,64,키,kʰi,kʰ,A,G5,67,pA,Up*,Up,Similar,3
+9.042,10.5,키,kʰi,kʰ,A,G5,67,고,ko,k,P,E5,64,AP,Down,Down,Similar,-3
+9.043,10.5,고,ko,k,P,E5,64,싶,sip,s,p,A5,69,Pp,Level*,Up,Oblique (II),5
+9.044,10.5,싶,sip,s,p,A5,69,어,ʌ,∅,p,G5->E5,67,pp,Level*,Down,Oblique (II),-2
+9.045,11.1,너,nʌ,n,p,B4,59,란,lɑn,l,p,D5,62,pp,Level*,Up,Oblique (II),3
+9.046,11.1,란,lɑn,l,p,D5,62,아,ɑ,∅,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.047,11.1,아,ɑ,∅,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+9.048,11.1,이,i,∅,p,E5,64,너,nʌ,n,p,E5,64,pp,Level*,Level,Similar,0
+9.049,11.1,너,nʌ,n,p,E5,64,만,mɑn,m,p,D5,62,pp,Level*,Down,Oblique (II),-2
+9.050,11.1,만,mɑn,m,p,D5,62,의,ɰi,∅,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.051,11.1,의,ɰi,∅,p,E5,64,루,lu,l,p,F#5,66,pp,Level*,Up,Oblique (II),2
+9.052,11.1,루,lu,l,p,F#5,66,틴,tʰin,tʰ,A,D5,62,pA,Up*,Down,Contrary,-4
+9.053,11.1,틴,tʰin,tʰ,A,D5,62,그,kɯ,k,P,E5,64,AP,Down,Up,Contrary,2
+9.054,11.2,그,kɯ,k,P,E5,64,특,tʰɯk,tʰ,A,E5,64,PA,Up,Level,Oblique (I),0
+9.055,11.2,특,tʰɯk,tʰ,A,E5,64,별,pjʌl,p,P,E5,64,AP,Down,Level,Oblique (I),0
+9.056,11.2,별,pjʌl,p,P,E5,64,함,hɑm,h,p,F#5,66,Pp,Level*,Up,Oblique (II),2
+9.057,11.2,함,hɑm,h,p,F#5,66,느,nɯ,n,p,B4,59,pp,Level*,Down,Oblique (II),-7
+9.058,11.3,느,nɯ,n,p,B4,59,낀,k*in,k*,T,D5,62,pT,Up?,Up,Similar,3
+9.059,11.3,낀,k*in,k*,T,D5,62,대,tɛ,t,P,E5,64,TP,Down?,Up,Contrary,2
+9.060,11.3,대,tɛ,t,P,E5,64,로,lo,l,p,D5,62,Pp,Level*,Down,Oblique (II),-2
+9.061,11.3,로,lo,l,p,D5,62,널,nʌl,n,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.062,11.3,널,nʌl,n,p,E5,64,풀,pʰul,pʰ,A,D5,62,pA,Up*,Down,Contrary,-2
+9.063,11.3,풀,pʰul,pʰ,A,D5,62,어,ʌ,∅,p,E5,64,Ap,Down*,Up,Contrary,2
+9.064,11.3,어,ʌ,∅,p,E5,64,볼,pol,p,P,F#5,66,pP,Level*,Up,Oblique (II),2
+9.065,11.3,볼,pol,p,P,F#5,66,게,kɛ,k,P,D5,62,PP,Level,Down,Oblique (II),-4
+9.066,13.3,넌,nʌn,n,p,F#5,66,우,u,∅,p,E5,64,pp,Level*,Down,Oblique (II),-2
+9.067,13.3,우,u,∅,p,E5,64,주,tɕu,tɕ,p,F#5,66,pp,Level*,Up,Oblique (II),2
+9.068,13.3,주,tɕu,tɕ,p,F#5,66,보,po,p,P,E5,64,pP,Level*,Down,Oblique (II),-2
+9.069,13.3,보,po,p,P,E5,64,다,tɑ,t,P,F#5,66,PP,Level,Up,Oblique (II),2
+9.070,13.3,다,tɑ,t,P,F#5,66,많,mɑn,m,p,E5,64,Pp,Level*,Down,Oblique (II),-2
+9.071,13.3,많,mɑn,m,p,E5,64,은,ɯn,∅,p,F#5,66,pp,Level*,Up,Oblique (II),2
+9.072,13.3,은,ɯn,∅,p,F#5,66,그,kɯ,k,P,E5,64,pP,Level*,Down,Oblique (II),-2
+9.073,13.3,그,kɯ,k,P,E5,64,주,tɕu,tɕ,p,F#5,66,Pp,Level*,Up,Oblique (II),2
+9.074,13.3,주,tɕu,tɕ,p,F#5,66,파,pʰɑ,pʰ,A,E5,64,pA,Up*,Down,Contrary,-2
+9.075,13.3,파,pʰɑ,pʰ,A,E5,64,수,su,s,p,F#5,66,Ap,Down*,Up,Contrary,2
+9.076,16.1,너,nʌ,n,p,B4,59,란,lɑn,l,p,D5,62,pp,Level*,Up,Oblique (II),3
+9.077,16.1,란,lɑn,l,p,D5,62,아,ɑ,∅,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.078,16.1,아,ɑ,∅,p,E5,64,이,i,∅,p,E5,64,pp,Level*,Level,Similar,0
+9.079,16.1,이,i,∅,p,E5,64,너,nʌ,n,p,E5,64,pp,Level*,Level,Similar,0
+9.080,16.1,너,nʌ,n,p,E5,64,만,mɑn,m,p,D5,62,pp,Level*,Down,Oblique (II),-2
+9.081,16.1,만,mɑn,m,p,D5,62,의,ɰi,∅,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.082,16.1,의,ɰi,∅,p,E5,64,루,lu,l,p,F#5,66,pp,Level*,Up,Oblique (II),2
+9.083,16.1,루,lu,l,p,F#5,66,틴,tʰin,tʰ,A,D5,62,pA,Up*,Down,Contrary,-4
+9.084,16.1,틴,tʰin,tʰ,A,D5,62,그,kɯ,k,P,E5,64,AP,Down,Up,Contrary,2
+9.085,16.3,그,kɯ,k,P,E5,64,특,tʰɯk,tʰ,A,E5,64,PA,Up,Level,Oblique (I),0
+9.086,16.3,특,tʰɯk,tʰ,A,E5,64,별,pjʌl,p,P,E5,64,AP,Down,Level,Oblique (I),0
+9.087,16.3,별,pjʌl,p,P,E5,64,함,hɑm,h,p,F#5,66,Pp,Level*,Up,Oblique (II),2
+9.088,16.3,함,hɑm,h,p,F#5,66,느,nɯ,n,p,B4,59,pp,Level*,Down,Oblique (II),-7
+9.089,16.4,느,nɯ,n,p,B4,59,낀,k*in,k*,T,D5,62,pT,Up?,Up,Similar,3
+9.090,16.4,낀,k*in,k*,T,D5,62,대,tɛ,t,P,E5,64,TP,Down?,Up,Contrary,2
+9.091,16.4,대,tɛ,t,P,E5,64,로,lo,l,p,D5,62,Pp,Level*,Down,Oblique (II),-2
+9.092,16.4,로,lo,l,p,D5,62,널,nʌl,n,p,E5,64,pp,Level*,Up,Oblique (II),2
+9.093,16.4,널,nʌl,n,p,E5,64,풀,pʰul,pʰ,A,D5,62,pA,Up*,Down,Contrary,-2
+9.094,16.4,풀,pʰul,pʰ,A,D5,62,어,ʌ,∅,p,E5,64,Ap,Down*,Up,Contrary,2
+9.095,16.4,어,ʌ,∅,p,E5,64,볼,pol,p,P,F#5,66,pP,Level*,Up,Oblique (II),2
+9.096,16.4,볼,pol,p,P,F#5,66,게,kɛ,k,P,D5,62,PP,Level,Down,Oblique (II),-4
